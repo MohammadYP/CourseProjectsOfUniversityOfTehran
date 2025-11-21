@@ -1,5 +1,5 @@
 
-TARGET ?= factorial_gpio
+TARGET ?= factorial_io
 OBJS ?= $(TARGET).cpp
 
 MAKE_PATH := $(abspath $(lastword $(MAKEFILE_LIST)))

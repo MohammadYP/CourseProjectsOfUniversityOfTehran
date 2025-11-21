@@ -1,0 +1,57 @@
+D:/Desktop/Asic/CA1/verilog_with_assertion/datapath.sv {1 {vlog -work work -vopt -sv -stats=none D:/Desktop/Asic/CA1/verilog_with_assertion/datapath.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} D:/Desktop/Asic/CA1/verilog_with_assertion/shift2_register.sv {1 {vlog -work work -vopt -sv -stats=none D:/Desktop/Asic/CA1/verilog_with_assertion/shift2_register.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module shift2_register
+
+Top level modules:
+	shift2_register
+
+} {} {}} D:/Desktop/Asic/CA1/verilog_with_assertion/encoder.sv {1 {vlog -work work -vopt -sv -stats=none D:/Desktop/Asic/CA1/verilog_with_assertion/encoder.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module encoder
+
+Top level modules:
+	encoder
+
+} {} {}} D:/Desktop/Asic/CA1/verilog_with_assertion/counter.sv {1 {vlog -work work -vopt -sv -stats=none D:/Desktop/Asic/CA1/verilog_with_assertion/counter.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} D:/Desktop/Asic/CA1/verilog_with_assertion/controller.sv {1 {vlog -work work -vopt -sv -stats=none D:/Desktop/Asic/CA1/verilog_with_assertion/controller.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} D:/Desktop/Asic/CA1/verilog_with_assertion/boot.sv {1 {vlog -work work -vopt -sv -stats=none D:/Desktop/Asic/CA1/verilog_with_assertion/boot.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module booth
+
+Top level modules:
+	booth
+
+} {} {}} D:/Desktop/Asic/CA1/verilog_with_assertion/register.sv {1 {vlog -work work -vopt -sv -stats=none D:/Desktop/Asic/CA1/verilog_with_assertion/register.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} D:/Desktop/Asic/CA1/verilog_with_assertion/tb.sv {1 {vlog -work work -vopt -sv -stats=none D:/Desktop/Asic/CA1/verilog_with_assertion/tb.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}}

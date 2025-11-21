@@ -1,5 +1,5 @@
 
-factorial_gpio.elf:     file format elf32-littleriscv
+factorial_io.elf:     file format elf32-littleriscv
 
 
 Disassembly of section .vectors:
@@ -133,7 +133,7 @@ Disassembly of section .text:
  1cc:	00800393          	li	t2,8
  1d0:	3003a3f3          	csrrs	t2,mstatus,t2
  1d4:	00000393          	li	t2,0
- 1d8:	1ac000ef          	jal	384 <main>
+ 1d8:	188000ef          	jal	360 <main>
 
 000001dc <_end>:
  1dc:	0000006f          	j	1dc <_end>
@@ -213,78 +213,65 @@ Disassembly of section .text:
 Disassembly of section .text._Z33m_mode_external_interrupt_handlerv:
 
 000002c0 <_Z33m_mode_external_interrupt_handlerv>:
- 2c0:	fd010113          	addi	sp,sp,-48
- 2c4:	02112623          	sw	ra,44(sp)
- 2c8:	02812423          	sw	s0,40(sp)
- 2cc:	02e12223          	sw	a4,36(sp)
- 2d0:	02f12023          	sw	a5,32(sp)
- 2d4:	03010413          	addi	s0,sp,48
+ 2c0:	fe010113          	addi	sp,sp,-32
+ 2c4:	00112e23          	sw	ra,28(sp)
+ 2c8:	00812c23          	sw	s0,24(sp)
+ 2cc:	00e12a23          	sw	a4,20(sp)
+ 2d0:	00f12823          	sw	a5,16(sp)
+ 2d4:	02010413          	addi	s0,sp,32
  2d8:	010007b7          	lui	a5,0x1000
- 2dc:	00878793          	addi	a5,a5,8 # 1000008 <_stack_start+0xeff008>
- 2e0:	0007a023          	sw	zero,0(a5)
- 2e4:	010007b7          	lui	a5,0x1000
- 2e8:	0007a783          	lw	a5,0(a5) # 1000000 <_stack_start+0xeff000>
- 2ec:	fef42223          	sw	a5,-28(s0)
- 2f0:	fe442783          	lw	a5,-28(s0)
- 2f4:	fef42023          	sw	a5,-32(s0)
- 2f8:	001007b7          	lui	a5,0x100
- 2fc:	fcf42e23          	sw	a5,-36(s0)
- 300:	00100793          	li	a5,1
- 304:	fef42623          	sw	a5,-20(s0)
- 308:	00100793          	li	a5,1
- 30c:	fef42423          	sw	a5,-24(s0)
- 310:	0200006f          	j	330 <_Z33m_mode_external_interrupt_handlerv+0x70>
- 314:	fec42703          	lw	a4,-20(s0)
- 318:	fe842783          	lw	a5,-24(s0)
- 31c:	02f707b3          	mul	a5,a4,a5
- 320:	fef42623          	sw	a5,-20(s0)
- 324:	fe842783          	lw	a5,-24(s0)
- 328:	00178793          	addi	a5,a5,1 # 100001 <_bss_end+0x1>
- 32c:	fef42423          	sw	a5,-24(s0)
- 330:	fe842703          	lw	a4,-24(s0)
- 334:	fe042783          	lw	a5,-32(s0)
- 338:	fce7fee3          	bgeu	a5,a4,314 <_Z33m_mode_external_interrupt_handlerv+0x54>
- 33c:	fdc42783          	lw	a5,-36(s0)
- 340:	fec42703          	lw	a4,-20(s0)
- 344:	00e7a023          	sw	a4,0(a5)
- 348:	010007b7          	lui	a5,0x1000
- 34c:	00478793          	addi	a5,a5,4 # 1000004 <_stack_start+0xeff004>
- 350:	fec42703          	lw	a4,-20(s0)
- 354:	00e7a023          	sw	a4,0(a5)
- 358:	010007b7          	lui	a5,0x1000
- 35c:	00878793          	addi	a5,a5,8 # 1000008 <_stack_start+0xeff008>
- 360:	00100713          	li	a4,1
- 364:	00e7a023          	sw	a4,0(a5)
- 368:	00000013          	nop
- 36c:	02c12083          	lw	ra,44(sp)
- 370:	02812403          	lw	s0,40(sp)
- 374:	02412703          	lw	a4,36(sp)
- 378:	02012783          	lw	a5,32(sp)
- 37c:	03010113          	addi	sp,sp,48
- 380:	30200073          	mret
+ 2dc:	0007a783          	lw	a5,0(a5) # 1000000 <_stack_start+0xeff000>
+ 2e0:	fef42223          	sw	a5,-28(s0)
+ 2e4:	001007b7          	lui	a5,0x100
+ 2e8:	fef42023          	sw	a5,-32(s0)
+ 2ec:	00100793          	li	a5,1
+ 2f0:	fef42623          	sw	a5,-20(s0)
+ 2f4:	00100793          	li	a5,1
+ 2f8:	fef42423          	sw	a5,-24(s0)
+ 2fc:	0200006f          	j	31c <_Z33m_mode_external_interrupt_handlerv+0x5c>
+ 300:	fec42703          	lw	a4,-20(s0)
+ 304:	fe842783          	lw	a5,-24(s0)
+ 308:	02f707b3          	mul	a5,a4,a5
+ 30c:	fef42623          	sw	a5,-20(s0)
+ 310:	fe842783          	lw	a5,-24(s0)
+ 314:	00178793          	addi	a5,a5,1 # 100001 <_bss_end+0x1>
+ 318:	fef42423          	sw	a5,-24(s0)
+ 31c:	fe842703          	lw	a4,-24(s0)
+ 320:	fe442783          	lw	a5,-28(s0)
+ 324:	fce7fee3          	bgeu	a5,a4,300 <_Z33m_mode_external_interrupt_handlerv+0x40>
+ 328:	fe042783          	lw	a5,-32(s0)
+ 32c:	fec42703          	lw	a4,-20(s0)
+ 330:	00e7a023          	sw	a4,0(a5)
+ 334:	010007b7          	lui	a5,0x1000
+ 338:	00478793          	addi	a5,a5,4 # 1000004 <_stack_start+0xeff004>
+ 33c:	fec42703          	lw	a4,-20(s0)
+ 340:	00e7a023          	sw	a4,0(a5)
+ 344:	00000013          	nop
+ 348:	01c12083          	lw	ra,28(sp)
+ 34c:	01812403          	lw	s0,24(sp)
+ 350:	01412703          	lw	a4,20(sp)
+ 354:	01012783          	lw	a5,16(sp)
+ 358:	02010113          	addi	sp,sp,32
+ 35c:	30200073          	mret
 
 Disassembly of section .text.main:
 
-00000384 <main>:
- 384:	fe010113          	addi	sp,sp,-32
- 388:	00112e23          	sw	ra,28(sp)
- 38c:	00812c23          	sw	s0,24(sp)
- 390:	02010413          	addi	s0,sp,32
- 394:	00800793          	li	a5,8
- 398:	3007a073          	csrs	mstatus,a5
- 39c:	000017b7          	lui	a5,0x1
- 3a0:	80078793          	addi	a5,a5,-2048 # 800 <_min_stack+0x300>
- 3a4:	3047a073          	csrs	mie,a5
- 3a8:	2c000793          	li	a5,704
- 3ac:	fef42623          	sw	a5,-20(s0)
- 3b0:	fec42783          	lw	a5,-20(s0)
- 3b4:	30579073          	csrw	mtvec,a5
- 3b8:	010007b7          	lui	a5,0x1000
- 3bc:	00878793          	addi	a5,a5,8 # 1000008 <_stack_start+0xeff008>
- 3c0:	00100713          	li	a4,1
- 3c4:	00e7a023          	sw	a4,0(a5)
- 3c8:	00000013          	nop
- 3cc:	ffdff06f          	j	3c8 <main+0x44>
+00000360 <main>:
+ 360:	fe010113          	addi	sp,sp,-32
+ 364:	00112e23          	sw	ra,28(sp)
+ 368:	00812c23          	sw	s0,24(sp)
+ 36c:	02010413          	addi	s0,sp,32
+ 370:	00800793          	li	a5,8
+ 374:	3007a073          	csrs	mstatus,a5
+ 378:	000017b7          	lui	a5,0x1
+ 37c:	80078793          	addi	a5,a5,-2048 # 800 <_min_stack+0x300>
+ 380:	3047a073          	csrs	mie,a5
+ 384:	2c000793          	li	a5,704
+ 388:	fef42623          	sw	a5,-20(s0)
+ 38c:	fec42783          	lw	a5,-20(s0)
+ 390:	30579073          	csrw	mtvec,a5
+ 394:	00000013          	nop
+ 398:	ffdff06f          	j	394 <main+0x34>
 
 Disassembly of section .comment:
 

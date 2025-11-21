@@ -1,0 +1,614 @@
+{D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_divider.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_divider.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity aftab_divider
+-- Compiling architecture behavioral of aftab_divider
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity aftab_divider_datapath
+-- Loading package NUMERIC_STD
+-- Loading entity aftab_divider_controller
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_csr_registers.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_csr_registers.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity aftab_csr_registers
+-- Compiling architecture behavioral of aftab_csr_registers
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_aau.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_aau.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity aftab_aau
+-- Compiling architecture behavioral of aftab_aau
+-- Loading entity aftab_booth_multiplier
+-- Loading entity aftab_su_divider
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_sulu.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_sulu.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity aftab_sulu
+-- Compiling architecture Behavioral of aftab_sulu
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_register_file.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_register_file.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity aftab_register_file
+-- Compiling architecture behavioral of aftab_register_file
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/SRAM/sram.v} {1 {vlog -work work -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/SRAM/sram.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SRAM
+
+Top level modules:
+	SRAM
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_datapath.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_datapath.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity aftab_datapath
+-- Compiling architecture behavioral of aftab_datapath
+-- Loading package NUMERIC_STD
+-- Loading entity aftab_csr_address_ctrl
+-- Loading entity aftab_register_file
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity aftab_register
+-- Loading entity aftab_isseu
+-- Loading entity aftab_adder
+-- Loading entity aftab_multiplexer
+-- Loading entity aftab_llu
+-- Loading entity aftab_barrel_shifter
+-- Loading entity aftab_comparator
+-- Loading entity aftab_adder_subtractor
+-- Loading entity aftab_aau
+-- Loading entity aftab_dawu
+-- Loading entity aftab_daru
+-- Loading entity aftab_sulu
+-- Loading entity aftab_csr_isl
+-- Loading entity aftab_register_bank
+-- Loading entity aftab_csr_counter
+-- Loading entity aftab_csr_addressing_decoder
+-- Loading entity aftab_iccd
+-- Loading entity aftab_isagu
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/IO/off_chip_virtual_flash.v} {1 {vlog -work work -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/IO/off_chip_virtual_flash.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module off_chip_virtual_flash
+
+Top level modules:
+	off_chip_virtual_flash
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_csr_address_logic.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_csr_address_logic.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity aftab_csr_address_logic
+-- Compiling architecture behavioral of aftab_csr_address_logic
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_tcl.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_tcl.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity aftab_tcl
+-- Compiling architecture behavioral of aftab_tcl
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_daru.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_daru.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity aftab_daru
+-- Compiling architecture behavioral of aftab_daru
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity aftab_daru_datapath
+-- Loading entity aftab_daru_controller
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_counter.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_counter.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity aftab_counter
+-- Compiling architecture Behavioral of aftab_counter
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/Bus/bus.v} {1 {vlog -work work -stats=none {D:\Desktop\core\CA3\Part C\HDL_Code\Bus\bus.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Bus
+
+Top level modules:
+	Bus
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_multiplexer.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_multiplexer.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity aftab_multiplexer
+-- Compiling architecture procedural of aftab_multiplexer
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/IO/off_chip_io.v} {1 {vlog -work work -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/IO/off_chip_io.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module off_chip_io
+
+Top level modules:
+	off_chip_io
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/IO/off_chip_spi_flash_counter.v} {1 {vlog -work work -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/IO/off_chip_spi_flash_counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module spi_io_counter
+
+Top level modules:
+	spi_io_counter
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_dawu_datapath.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_dawu_datapath.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity aftab_dawu_datapath
+-- Compiling architecture Behavioral of aftab_dawu_datapath
+-- Loading entity aftab_register
+-- Loading entity aftab_counter
+-- Loading entity aftab_opt_adder
+-- Loading entity aftab_dawu_error_detector
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/SPI_Flash/spi_flash_controller.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/SPI_Flash/spi_flash_controller.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity spi_flash_controller
+-- Compiling architecture Arch of spi_flash_controller
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_adder_subtractor.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_adder_subtractor.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity aftab_adder_subtractor
+-- Compiling architecture behavioral of aftab_adder_subtractor
+-- Loading entity aftab_adder
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_adder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity aftab_adder
+-- Compiling architecture behavioral of aftab_adder
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_csr_address_ctrl.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_csr_address_ctrl.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity aftab_csr_address_ctrl
+-- Compiling architecture behavioral of aftab_csr_address_ctrl
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_dawu.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_dawu.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity aftab_dawu
+-- Compiling architecture Behavioral of aftab_dawu
+-- Loading entity aftab_dawu_datapath
+-- Loading entity aftab_dawu_controller
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_isagu.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_isagu.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity aftab_isagu
+-- Compiling architecture Behavioral of aftab_isagu
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/IO/off_chip_spi_flash_datapath.v} {1 {vlog -work work -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/IO/off_chip_spi_flash_datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module off_chip_spi_flash_datapath
+
+Top level modules:
+	off_chip_spi_flash_datapath
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/SRAM/M31HDSP200GB180W_4096X8X1CM16.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/SRAM/M31HDSP200GB180W_4096X8X1CM16.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Compiling entity M31HDSP200GB180W_4096X8X1CM16
+-- Compiling architecture behavioral of M31HDSP200GB180W_4096X8X1CM16
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_dawu_error_detector.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_dawu_error_detector.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity aftab_dawu_error_detector
+-- Compiling architecture behavioral of aftab_dawu_error_detector
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_llu.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_llu.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity aftab_llu
+-- Compiling architecture behavioral of aftab_llu
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/IO/off_chip_spi_flash_shift_register.v} {1 {vlog -work work -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/IO/off_chip_spi_flash_shift_register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shift_spi_io_register
+
+Top level modules:
+	shift_spi_io_register
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_decoder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_decoder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity aftab_decoder
+-- Compiling architecture behavioral of aftab_decoder
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/testbench.v} {1 {vlog -work work -stats=none {D:\Desktop\core\CA3\Part C\HDL_Code\testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_comparator.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_comparator.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity aftab_comparator
+-- Compiling architecture behavioral of aftab_comparator
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/IO/off_chip_spi_flash_register.v} {1 {vlog -work work -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/IO/off_chip_spi_flash_register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module off_chip_spi_flash_register
+
+Top level modules:
+	off_chip_spi_flash_register
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_daru_datapath.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_daru_datapath.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity aftab_daru_datapath
+-- Compiling architecture behavioral of aftab_daru_datapath
+-- Loading entity aftab_register
+-- Loading entity aftab_decoder
+-- Loading entity aftab_counter
+-- Loading entity aftab_opt_adder
+-- Loading entity aftab_daru_error_detector
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_full_adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_full_adder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity aftab_full_adder
+-- Compiling architecture gate_level of aftab_full_adder
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_opt_adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_opt_adder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity aftab_opt_adder
+-- Compiling architecture Behavioral of aftab_opt_adder
+-- Loading entity aftab_full_adder
+-- Loading package NUMERIC_STD
+-- Loading entity aftab_half_adder
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/SPI_Flash/spi.v} {1 {vlog -work work -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/SPI_Flash/spi.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SPI
+
+Top level modules:
+	SPI
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_controller.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_controller.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity aftab_controller
+-- Compiling architecture behavioral of aftab_controller
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_barrel_shifter.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_barrel_shifter.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity aftab_barrel_shifter
+-- Compiling architecture behavioral of aftab_barrel_shifter
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_booth_multiplier_controller.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_booth_multiplier_controller.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity aftab_booth_multiplier_controller
+-- Compiling architecture behavioral of aftab_booth_multiplier_controller
+-- Loading entity aftab_counter
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_csr_counter.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_csr_counter.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity aftab_csr_counter
+-- Compiling architecture Behavioral of aftab_csr_counter
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/IO/off_chip_spi_flash_controller.v} {1 {vlog -work work -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/IO/off_chip_spi_flash_controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module off_chip_spi_flash_controller
+
+Top level modules:
+	off_chip_spi_flash_controller
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_divider_controller.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_divider_controller.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity aftab_divider_controller
+-- Compiling architecture behavioral of aftab_divider_controller
+-- Loading entity aftab_counter
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/SPI_Flash/virtual_flash.v} {1 {vlog -work work -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/SPI_Flash/virtual_flash.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module virtual_flash
+
+Top level modules:
+	virtual_flash
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_divider_datapath.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_divider_datapath.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity aftab_divider_datapath
+-- Compiling architecture behavioral of aftab_divider_datapath
+-- Loading entity aftab_shift_register
+-- Loading entity aftab_register
+-- Loading entity aftab_multiplexer
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_register.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_register.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity aftab_register
+-- Compiling architecture behavioral of aftab_register
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_daru_controller.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_daru_controller.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity aftab_daru_controller
+-- Compiling architecture behavioral of aftab_daru_controller
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_csr_addressing_decoder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_csr_addressing_decoder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity aftab_csr_addressing_decoder
+-- Compiling architecture functional of aftab_csr_addressing_decoder
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_register_bank.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_register_bank.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity aftab_register_bank
+-- Compiling architecture behavioral of aftab_register_bank
+-- Loading entity aftab_csr_registers
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity aftab_csr_address_logic
+-- Loading entity aftab_register
+-- Loading entity aftab_one_bit_register
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_core.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_core.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity aftab_core
+-- Compiling architecture procedural of aftab_core
+-- Loading entity aftab_datapath
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity aftab_controller
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_booth_multiplier.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_booth_multiplier.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity aftab_booth_multiplier
+-- Compiling architecture behavioral of aftab_booth_multiplier
+-- Loading entity aftab_booth_multiplier_datapath
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading entity aftab_booth_multiplier_controller
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_iccd.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_iccd.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity aftab_iccd
+-- Compiling architecture behavioral of aftab_iccd
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_dawu_controller.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_dawu_controller.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity aftab_dawu_controller
+-- Compiling architecture behavioral of aftab_dawu_controller
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_su_divider.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_su_divider.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity aftab_su_divider
+-- Compiling architecture behavioral of aftab_su_divider
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity aftab_tcl
+-- Loading entity aftab_divider
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_daru_error_detector.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_daru_error_detector.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity aftab_daru_error_detector
+-- Compiling architecture behavioral of aftab_daru_error_detector
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_csr_isl.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_csr_isl.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity aftab_csr_isl
+-- Compiling architecture behavioral of aftab_csr_isl
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_booth_multiplier_datapath.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_booth_multiplier_datapath.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity aftab_booth_multiplier_datapath
+-- Compiling architecture behavioral of aftab_booth_multiplier_datapath
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity aftab_register
+-- Loading entity aftab_shift_register
+-- Loading package NUMERIC_STD
+-- Loading entity aftab_adder_subtractor
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_isseu.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_isseu.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity aftab_isseu
+-- Compiling architecture Behavioral of aftab_isseu
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_shift_register.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_shift_register.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity aftab_shift_register
+-- Compiling architecture behavioral of aftab_shift_register
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_half_adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_half_adder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity aftab_half_adder
+-- Compiling architecture rtl of aftab_half_adder
+
+} {} {}} {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_one_bit_register.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop/core/CA3/Part C/HDL_Code/CPU/aftab_one_bit_register.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity aftab_one_bit_register
+-- Compiling architecture behavioral of aftab_one_bit_register
+
+} {} {}}

@@ -1,0 +1,272 @@
+m255
+K4
+z2
+Z0 !s12c _opt1
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+Z2 !s12c _opt
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z3 dD:/Desktop/Asic/CA1/modelsim
+T_opt
+!s110 1744308074
+VD_0Vf:cnUGW:e_GZj]<6>0
+Z4 04 2 4 work tb fast 0
+=19-e00af673b493-67f8076a-101-7ce4
+R1
+Z5 !s12f OEM100
+Z6 !s12b OEM100
+Z7 !s124 OEM100
+Z8 o-quiet -auto_acc_if_foreign -work work
+Z9 tCvgOpt 0
+n@_opt
+Z10 OL;O;2024.1;79
+R3
+T_opt1
+!s110 1744479998
+Vj_DJDcLb3gH2L25M:QW[l2
+R4
+=1-e00af673b493-67faa6fd-53-6f90
+R1
+R5
+R6
+R7
+R8
+R9
+n@_opt1
+R10
+vbooth
+2D:/Desktop/Asic/CA1/verilog_with_assertion/boot.sv
+Z11 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z12 !s110 1744479983
+!i10b 1
+!s100 oOQ@3j[T6oZK9`40mg8SV2
+Iz5NZQ]kimOd9TXi`ZIWRW0
+S1
+Z13 dD:/Desktop/Asic/CA1/verilog_with_assertion
+w1744047064
+8D:/Desktop/Asic/CA1/verilog_with_assertion/boot.sv
+FD:/Desktop/Asic/CA1/verilog_with_assertion/boot.sv
+!i122 188
+L0 1 60
+Z14 VDg1SIo80bB@j0V0VzS_@n1
+Z15 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z16 !s108 1744479983.000000
+!s107 D:/Desktop/Asic/CA1/verilog_with_assertion/boot.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Desktop/Asic/CA1/verilog_with_assertion/boot.sv|
+!i113 0
+Z17 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R9
+vcontroller
+2D:/Desktop/Asic/CA1/verilog_with_assertion/controller.sv
+R11
+R12
+!i10b 1
+!s100 S]WF^_J;aE[dm2k<NzfP30
+I:0@XRMS9h2EImC`6I3IY?3
+S1
+R13
+w1744047055
+8D:/Desktop/Asic/CA1/verilog_with_assertion/controller.sv
+FD:/Desktop/Asic/CA1/verilog_with_assertion/controller.sv
+!i122 189
+L0 6 78
+R14
+R15
+r1
+!s85 0
+31
+R16
+!s107 D:/Desktop/Asic/CA1/verilog_with_assertion/controller.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Desktop/Asic/CA1/verilog_with_assertion/controller.sv|
+!i113 0
+R17
+R9
+vcounter
+2D:/Desktop/Asic/CA1/verilog_with_assertion/counter.sv
+R11
+R12
+!i10b 1
+!s100 bzicokZRjG724Tm]@84:@1
+IaYEf11mh=C=ElTk>aHZkT1
+S1
+R13
+w1744040307
+8D:/Desktop/Asic/CA1/verilog_with_assertion/counter.sv
+FD:/Desktop/Asic/CA1/verilog_with_assertion/counter.sv
+!i122 190
+Z18 L0 1 23
+R14
+R15
+r1
+!s85 0
+31
+R16
+!s107 D:/Desktop/Asic/CA1/verilog_with_assertion/counter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Desktop/Asic/CA1/verilog_with_assertion/counter.sv|
+!i113 0
+R17
+R9
+vdatapath
+2D:/Desktop/Asic/CA1/verilog_with_assertion/datapath.sv
+R11
+R12
+!i10b 1
+!s100 S=IT0Nib_BMV8E41M;AIX1
+IO^EY8Nk=@NS?XFzkFdERV2
+S1
+R13
+w1744047268
+8D:/Desktop/Asic/CA1/verilog_with_assertion/datapath.sv
+FD:/Desktop/Asic/CA1/verilog_with_assertion/datapath.sv
+!i122 191
+L0 1 94
+R14
+R15
+r1
+!s85 0
+31
+R16
+!s107 D:/Desktop/Asic/CA1/verilog_with_assertion/datapath.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Desktop/Asic/CA1/verilog_with_assertion/datapath.sv|
+!i113 0
+R17
+R9
+vencoder
+2D:/Desktop/Asic/CA1/verilog_with_assertion/encoder.sv
+R11
+R12
+!i10b 1
+!s100 aXeaLYf]SIJAXBC1<83QZ1
+I_g5NTbRU3kL7UVF4Vl^<E3
+S1
+R13
+w1744040099
+8D:/Desktop/Asic/CA1/verilog_with_assertion/encoder.sv
+FD:/Desktop/Asic/CA1/verilog_with_assertion/encoder.sv
+!i122 192
+Z19 L0 1 20
+R14
+R15
+r1
+!s85 0
+31
+R16
+!s107 D:/Desktop/Asic/CA1/verilog_with_assertion/encoder.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Desktop/Asic/CA1/verilog_with_assertion/encoder.sv|
+!i113 0
+R17
+R9
+vregister
+2D:/Desktop/Asic/CA1/verilog_with_assertion/register.sv
+R11
+Z20 !s110 1744479984
+!i10b 1
+!s100 fDzT`fPQTLGA0zD>4bG?>3
+Im>R0>imjfh5@^`VPQ<X]G2
+S1
+R13
+w1744040190
+8D:/Desktop/Asic/CA1/verilog_with_assertion/register.sv
+FD:/Desktop/Asic/CA1/verilog_with_assertion/register.sv
+!i122 193
+R19
+R14
+R15
+r1
+!s85 0
+31
+R16
+!s107 D:/Desktop/Asic/CA1/verilog_with_assertion/register.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Desktop/Asic/CA1/verilog_with_assertion/register.sv|
+!i113 0
+R17
+R9
+vshift2_register
+2D:/Desktop/Asic/CA1/verilog_with_assertion/shift2_register.sv
+R11
+R20
+!i10b 1
+!s100 f8:_I2lb?fg=AzcPf:2`Y0
+I[?BYBDQAGmLl_EPezWmmO3
+S1
+R13
+w1744041361
+8D:/Desktop/Asic/CA1/verilog_with_assertion/shift2_register.sv
+FD:/Desktop/Asic/CA1/verilog_with_assertion/shift2_register.sv
+!i122 194
+R18
+R14
+R15
+r1
+!s85 0
+31
+Z21 !s108 1744479984.000000
+!s107 D:/Desktop/Asic/CA1/verilog_with_assertion/shift2_register.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Desktop/Asic/CA1/verilog_with_assertion/shift2_register.sv|
+!i113 0
+R17
+R9
+vtb
+2D:/Desktop/Asic/CA1/verilog_with_assertion/tb.sv
+R11
+R20
+!i10b 1
+!s100 n^hUfN3:k2caGhNm[dlOe0
+IlbA[_<ejB@HPaK;FCmEO[3
+S1
+R13
+w1744479937
+8D:/Desktop/Asic/CA1/verilog_with_assertion/tb.sv
+FD:/Desktop/Asic/CA1/verilog_with_assertion/tb.sv
+!i122 195
+L0 1 84
+R14
+R15
+r1
+!s85 0
+31
+R21
+!s107 D:/Desktop/Asic/CA1/verilog_with_assertion/tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Desktop/Asic/CA1/verilog_with_assertion/tb.sv|
+!i113 0
+R17
+R9

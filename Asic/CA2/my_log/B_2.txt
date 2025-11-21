@@ -1,0 +1,319 @@
+Loading EDA settings ...
+[CAD_Lab009@edahost counter]$ design_vision
+
+                           Design Compiler Graphical 
+                                 DC Ultra (TM)
+                                  DFTMAX (TM)
+                              Power Compiler (TM)
+                                 DesignWare (R)
+                                 DC Expert (TM)
+                               Design Vision (TM)
+                               HDL Compiler (TM)
+                               VHDL Compiler (TM)
+                                  DFT Compiler
+                               Design Compiler(R)
+
+               Version L-2016.03-SP1 for linux64 - Apr 18, 2016 
+
+                    Copyright (c) 1988 - 2016 Synopsys, Inc.
+   This software and the associated documentation are proprietary to Synopsys,
+ Inc. This software may only be used in accordance with the terms and conditions
+ of a written license agreement with Synopsys, Inc. All other use, reproduction,
+            or distribution of this software is strictly prohibited.
+Initializing...
+Warning: Tk does not like 32 bit X11 visual.
+design_vision> 4.1
+design_vision> analyze -library WORK -format verilog {/home/CAD_Lab009/Desktop/counter/front_end/counter/source/counter.v}
+Running PRESTO HDLC
+Compiling source file /home/CAD_Lab009/Desktop/counter/front_end/counter/source/counter.v
+Presto compilation completed successfully.
+Loading db file '/tech3/GEN2/IP001316/arm/csm/ch018ull/sc7_base_rvt/r0p0/db/sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c.db'
+design_vision> uplevel #0 source /home/CAD_Lab009/Desktop/counter/front_end/counter/constraintsB.tcl
+Running PRESTO HDLC
+Compiling source file /home/CAD_Lab009/Desktop/counter/front_end/counter/source/counter.v
+Presto compilation completed successfully.
+Loading db file '/eda2/synopsys/syn-vL-2016.03-SP1/libraries/syn/gtech.db'
+Loading db file '/eda2/synopsys/syn-vL-2016.03-SP1/libraries/syn/standard.sldb'
+  Loading link library 'sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c'
+  Loading link library 'gtech'
+Running PRESTO HDLC
+
+Inferred memory devices in process
+        in routine counter line 8 in file
+                '/home/CAD_Lab009/Desktop/counter/front_end/counter/source/counter.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|      count_reg      | Flip-flop |   4   |  Y  | N  | Y  | N  | N  | N  | N  |
+===============================================================================
+Presto compilation completed successfully.
+Elaborated 1 design.
+Current design is now 'counter'.
+Writing verilog file '/home/CAD_Lab009/Desktop/counter/front_end/counter/out/counterNetlist.v'.
+Information: Evaluating DesignWare library utilization. (UISN-27)
+
+============================================================================
+| DesignWare Building Block Library  |         Version         | Available |
+============================================================================
+| Basic DW Building Blocks           | L-2016.03-DWBB_201603.1 |     *     |
+| Licensed DW Building Blocks        |                         |           |
+============================================================================
+
+
+Information: There are 1 potential problems in your design. Please run 'check_design' for more information. (LINT-99)
+
+
+
+  Beginning Pass 1 Mapping
+  ------------------------
+  Processing 'counter'
+
+  Updating timing information
+Information: Updating design information... (UID-85)
+
+  Beginning Mapping Optimizations  (Medium effort)
+  -------------------------------
+
+                                  TOTAL                                      
+   ELAPSED            WORST NEG   SETUP    DESIGN                            
+    TIME      AREA      SLACK     COST    RULE COST         ENDPOINT         
+  --------- --------- --------- --------- --------- -------------------------
+    0:00:02     583.9      0.00       0.0       0.0                          
+    0:00:02     583.9      0.00       0.0       0.0                          
+    0:00:02     583.9      0.00       0.0       0.0                          
+    0:00:02     583.9      0.00       0.0       0.0                          
+    0:00:02     583.9      0.00       0.0       0.0                          
+    0:00:02     296.4      0.00       0.0       0.0                          
+    0:00:02     296.4      0.00       0.0       0.0                          
+    0:00:02     296.4      0.00       0.0       0.0                          
+    0:00:02     296.4      0.00       0.0       0.0                          
+    0:00:02     296.4      0.00       0.0       0.0                          
+    0:00:02     296.4      0.00       0.0       0.0                          
+    0:00:02     296.4      0.00       0.0       0.0                          
+    0:00:02     296.4      0.00       0.0       0.0                          
+
+
+
+  Beginning Delay Optimization Phase
+  ----------------------------------
+
+                                  TOTAL                                      
+   ELAPSED            WORST NEG   SETUP    DESIGN                            
+    TIME      AREA      SLACK     COST    RULE COST         ENDPOINT         
+  --------- --------- --------- --------- --------- -------------------------
+    0:00:02     296.4      0.00       0.0       0.0                          
+    0:00:02     296.4      0.00       0.0       0.0                          
+    0:00:02     296.4      0.00       0.0       0.0                          
+
+
+  Beginning Area-Recovery Phase  (cleanup)
+  -----------------------------
+
+                                  TOTAL                                      
+   ELAPSED            WORST NEG   SETUP    DESIGN                            
+    TIME      AREA      SLACK     COST    RULE COST         ENDPOINT         
+  --------- --------- --------- --------- --------- -------------------------
+    0:00:02     296.4      0.00       0.0       0.0                          
+    0:00:02     296.4      0.00       0.0       0.0                          
+    0:00:02     296.4      0.00       0.0       0.0                          
+    0:00:02     296.4      0.00       0.0       0.0                          
+    0:00:02     296.4      0.00       0.0       0.0                          
+    0:00:02     296.4      0.00       0.0       0.0                          
+    0:00:02     296.4      0.00       0.0       0.0                          
+    0:00:02     296.4      0.00       0.0       0.0                          
+    0:00:02     296.4      0.00       0.0       0.0                          
+    0:00:02     296.4      0.00       0.0       0.0                          
+    0:00:02     296.4      0.00       0.0       0.0                          
+Loading db file '/tech3/GEN2/IP001316/arm/csm/ch018ull/sc7_base_rvt/r0p0/db/sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c.db'
+
+
+Note: Symbol # after min delay cost means estimated hold TNS across all active scenarios 
+
+
+  Optimization Complete
+  ---------------------
+Information: Updating design information... (UID-85)
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : counter
+Version: L-2016.03-SP1
+Date   : Wed May 14 20:30:18 2025
+****************************************
+
+Operating Conditions: tt_typ_max_1p80v_25c   Library: sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c
+Wire Load Model Mode: top
+
+  Startpoint: count_reg[1]
+              (rising edge-triggered flip-flop clocked by clk)
+  Endpoint: count_reg[3]
+            (rising edge-triggered flip-flop clocked by clk)
+  Path Group: clk
+  Path Type: max
+
+  Des/Clust/Port     Wire Load Model       Library
+  ------------------------------------------------
+  counter            Small                 sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  clock clk (rise edge)                    2.50       2.50
+  clock network delay (ideal)              0.00       2.50
+  count_reg[1]/CK (DFFRQ_X2_A7TULL)        0.00       2.50 r
+  count_reg[1]/Q (DFFRQ_X2_A7TULL)         0.56       3.06 r
+  U17/Y (NAND2_X2_A7TULL)                  0.19       3.25 f
+  U14/Y (NOR2B_X2_A7TULL)                  0.21       3.46 r
+  U13/Y (XOR2_X2_A7TULL)                   0.22       3.68 r
+  count_reg[3]/D (DFFRQ_X2_A7TULL)         0.00       3.68 r
+  data arrival time                                   3.68
+
+  clock clk (rise edge)                    7.50       7.50
+  clock network delay (ideal)              0.00       7.50
+  count_reg[3]/CK (DFFRQ_X2_A7TULL)        0.00       7.50 r
+  library setup time                      -0.25       7.25
+  data required time                                  7.25
+  -----------------------------------------------------------
+  data required time                                  7.25
+  data arrival time                                  -3.68
+  -----------------------------------------------------------
+  slack (MET)                                         3.58
+
+
+ 
+****************************************
+Report : area
+Design : counter
+Version: L-2016.03-SP1
+Date   : Wed May 14 20:30:18 2025
+****************************************
+
+Library(s) Used:
+
+    sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c (File: /tech3/GEN2/IP001316/arm/csm/ch018ull/sc7_base_rvt/r0p0/db/sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c.db)
+
+Number of ports:                            6
+Number of nets:                            16
+Number of cells:                           14
+Number of combinational cells:             10
+Number of sequential cells:                 4
+Number of macros/black boxes:               0
+Number of buf/inv:                          5
+Number of references:                       6
+
+Combinational area:                111.955198
+Buf/Inv area:                       32.927999
+Noncombinational area:             184.396805
+Macro/Black Box area:                0.000000
+Net Interconnect area:               0.000000
+
+Total cell area:                   296.352003
+Total area:                        296.352003
+Loading db file '/tech3/GEN2/IP001316/arm/csm/ch018ull/sc7_base_rvt/r0p0/db/sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c.db'
+Information: Propagating switching activity (low effort zero delay simulation). (PWR-6)
+Warning: Design has unannotated primary inputs. (PWR-414)
+Warning: Design has unannotated sequential cell outputs. (PWR-415)
+ 
+****************************************
+Report : power
+        -analysis_effort low
+Design : counter
+Version: L-2016.03-SP1
+Date   : Wed May 14 20:30:19 2025
+****************************************
+
+
+Library(s) Used:
+
+    sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c (File: /tech3/GEN2/IP001316/arm/csm/ch018ull/sc7_base_rvt/r0p0/db/sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c.db)
+
+
+Operating Conditions: tt_typ_max_1p80v_25c   Library: sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c
+Wire Load Model Mode: top
+
+Design        Wire Load Model            Library
+------------------------------------------------
+counter                Small             sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c
+
+
+Global Operating Voltage = 1.8  
+Power-specific unit information :
+    Voltage Units = 1V
+    Capacitance Units = 1.000000pf
+    Time Units = 1ns
+    Dynamic Power Units = 1mW    (derived from V,C,T units)
+    Leakage Power Units = 1uW
+
+
+  Cell Internal Power  =  58.7189 uW   (77%)
+  Net Switching Power  =  17.7180 uW   (23%)
+                         ---------
+Total Dynamic Power    =  76.4370 uW  (100%)
+
+Cell Leakage Power     =  27.2254 pW
+
+
+                 Internal         Switching           Leakage            Total
+Power Group      Power            Power               Power              Power   (   %    )  Attrs
+--------------------------------------------------------------------------------------------------
+io_pad             0.0000            0.0000            0.0000            0.0000  (   0.00%)
+memory             0.0000            0.0000            0.0000            0.0000  (   0.00%)
+black_box          0.0000            0.0000            0.0000            0.0000  (   0.00%)
+clock_network      0.0000            0.0000            0.0000            0.0000  (   0.00%)
+register       5.3182e-02        8.6864e-03        1.5740e-05        6.1869e-02  (  80.94%)
+sequential         0.0000            0.0000            0.0000            0.0000  (   0.00%)
+combinational  5.5366e-03        9.0316e-03        1.1485e-05        1.4568e-02  (  19.06%)
+--------------------------------------------------------------------------------------------------
+Total          5.8719e-02 mW     1.7718e-02 mW     2.7225e-05 uW     7.6437e-02 mW
+ 
+****************************************
+Report : cell
+Design : counter
+Version: L-2016.03-SP1
+Date   : Wed May 14 20:30:19 2025
+****************************************
+
+Attributes:
+    b - black box (unknown)
+    d - dont_touch
+    h - hierarchical
+    n - noncombinational
+    r - removable
+    u - contains unmapped logic
+
+Cell                      Reference       Library             Area  Attributes
+--------------------------------------------------------------------------------
+U3                        INV_X2_A7TULL   sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c
+                                                          6.585600  d
+U4                        INV_X2_A7TULL   sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c
+                                                          6.585600  d
+U5                        INV_X2_A7TULL   sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c
+                                                          6.585600  d
+U6                        INV_X2_A7TULL   sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c
+                                                          6.585600  d
+U13                       XOR2_X2_A7TULL  sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c
+                                                          19.756800 
+U14                       NOR2B_X2_A7TULL sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c
+                                                          10.976000 
+U15                       XNOR2_X2_A7TULL sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c
+                                                          19.756800 
+U16                       XNOR2_X2_A7TULL sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c
+                                                          19.756800 
+U17                       NAND2_X2_A7TULL sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c
+                                                          8.780800  
+U18                       INV_X2_A7TULL   sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c
+                                                          6.585600  
+count_reg[0]              DFFRQ_X2_A7TULL sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c
+                                                          46.099201 n
+count_reg[1]              DFFRQ_X2_A7TULL sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c
+                                                          46.099201 n
+count_reg[2]              DFFRQ_X2_A7TULL sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c
+                                                          46.099201 n
+count_reg[3]              DFFRQ_X2_A7TULL sc7_ch018ull_base_rvt_tt_typ_max_1p80v_25c
+                                                          46.099201 n
+--------------------------------------------------------------------------------
+Total 14 cells                                            296.352003
+design_vision> Current design is 'counter'.
+

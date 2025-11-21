@@ -1,0 +1,452 @@
+tinyubu@Valeria:/mnt/d/Desktop/core/CA1_B/AFTAB_ISS_Core/AFTAB_Instruction_mapper$ g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=$SYSTEMC_HOME/lib-linux64 -lsystemc -lm -o counter counter.cpp && ./counter
+cc1plus: fatal error: counter.cpp: No such file or directory
+compilation terminated.
+tinyubu@Valeria:/mnt/d/Desktop/core/CA1_B/AFTAB_ISS_Core/AFTAB_Instruction_mapper$ g++ ISS_mem_format.cpp
+tinyubu@Valeria:/mnt/d/Desktop/core/CA1_B/AFTAB_ISS_Core/AFTAB_Instruction_mapper$ ./a.out
+@0 00010011
+@1 00000001
+@2 00000001
+@3 11111110
+@4 00100011
+@5 00101110
+@6 00010001
+@7 00000000
+@8 00100011
+@9 00101100
+@10 10000001
+@11 00000000
+@12 00010011
+@13 00000100
+@14 00000001
+@15 00000010
+@16 10010011
+@17 00000111
+@18 10100000
+@19 00000000
+@20 00100011
+@21 00100010
+@22 11110100
+@23 11111110
+@24 10010011
+@25 00000111
+@26 00010000
+@27 00000000
+@28 00100011
+@29 00100110
+@30 11110100
+@31 11111110
+@32 10110111
+@33 00000111
+@34 00010000
+@35 00000000
+@36 10010011
+@37 10000111
+@38 00000111
+@39 00000000
+@40 00100011
+@41 00100000
+@42 11110100
+@43 11111110
+@44 10010011
+@45 00000111
+@46 00010000
+@47 00000000
+@48 00100011
+@49 00100100
+@50 11110100
+@51 11111110
+@52 01101111
+@53 00000000
+@54 00000000
+@55 00000010
+@56 00000011
+@57 00100111
+@58 11000100
+@59 11111110
+@60 10000011
+@61 00100111
+@62 10000100
+@63 11111110
+@64 10110011
+@65 00000111
+@66 11110111
+@67 00000010
+@68 00100011
+@69 00100110
+@70 11110100
+@71 11111110
+@72 10000011
+@73 00100111
+@74 10000100
+@75 11111110
+@76 10010011
+@77 10000111
+@78 00010111
+@79 00000000
+@80 00100011
+@81 00100100
+@82 11110100
+@83 11111110
+@84 00000011
+@85 00100111
+@86 10000100
+@87 11111110
+@88 10000011
+@89 00100111
+@90 01000100
+@91 11111110
+@92 11100011
+@93 11011110
+@94 11100111
+@95 11111100
+@96 10000011
+@97 00100111
+@98 00000100
+@99 11111110
+@100 00000011
+@101 00100111
+@102 11000100
+@103 11111110
+@104 00100011
+@105 10100000
+@106 11100111
+@107 00000000
+@108 10010011
+@109 00000111
+@110 00000000
+@111 00000000
+@112 00010011
+@113 10000101
+@114 00000111
+@115 00000000
+@116 10000011
+@117 00100000
+@118 11000001
+@119 00000001
+@120 00000011
+@121 00100100
+@122 10000001
+@123 00000001
+@130 00010011
+@131 00000001
+@132 00000001
+@133 00000010
+@134 01100111
+@135 10000000
+@136 00000000
+@137 00000000
+tinyubu@Valeria:/mnt/d/Desktop/core/CA1_B/AFTAB_ISS_Core/AFTAB_Instruction_mapper$ cd ..
+tinyubu@Valeria:/mnt/d/Desktop/core/CA1_B/AFTAB_ISS_Core$ ls
+AFTAB_ISS  AFTAB_Instruction_mapper
+tinyubu@Valeria:/mnt/d/Desktop/core/CA1_B/AFTAB_ISS_Core$ cd AFTAB_ISS
+tinyubu@Valeria:/mnt/d/Desktop/core/CA1_B/AFTAB_ISS_Core/AFTAB_ISS$ ls
+AFTABDecode.h  AFTABStructure.h  Exceptions.h  Memory.h    dump.txt    output.txt  system.h
+tinyubu@Valeria:/mnt/d/Desktop/core/CA1_B/AFTAB_ISS_Core/AFTAB_ISS$ g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=$SYSTEMC_HOME/lib-linux64 -lsystemc -lm -o AFTAB AFTAB_ISS.cpp
+AFTAB_ISS.cpp:1:9: warning: #pragma once in main file
+    1 | #pragma once
+      |         ^~~~
+In file included from AFTAB_ISS.cpp:3:
+AFTABMorph.h:377:80: warning: backslash and newline separated by space
+  377 | PSW_reg.CY=fillCY(op1.range(n, n), op2.range(n, n), result.range(n, n), false);\
+      |
+AFTAB_ISS.cpp: In member function ‘DECODE_ENTRY issAFTAB::DecodeINST(DECODE_ENTRY*, sc_dt::sc_lv<32>)’:
+AFTAB_ISS.cpp:1610:1: warning: control reaches end of non-void function [-Wreturn-type]
+ 1610 | }
+      | ^
+/usr/bin/ld: /home/tinyubu/systemc-2.3.3/lib-linux64/libsystemc.so: undefined reference to `sc_main'
+collect2: error: ld returned 1 exit status
+tinyubu@Valeria:/mnt/d/Desktop/core/CA1_B/AFTAB_ISS_Core/AFTAB_ISS$ ls
+AFTABDecode.h  AFTABMorph.h  AFTABStructure.h  AFTAB_ISS.cpp  Exceptions.h  Interrupts.h  Memory.h  Source.cpp  dump.txt  issAFTAB.h  output.txt  resource.h  system.h  systemTest.h
+tinyubu@Valeria:/mnt/d/Desktop/core/CA1_B/AFTAB_ISS_Core/AFTAB_ISS$ g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=$SYSTEMC_HOME/lib-linux64 -lsystemc -lm -o AFTAB AFTAB_ISS.cpp
+AFTAB_ISS.cpp:1:9: warning: #pragma once in main file
+    1 | #pragma once
+      |         ^~~~
+In file included from AFTAB_ISS.cpp:3:
+AFTABMorph.h:377:80: warning: backslash and newline separated by space
+  377 | PSW_reg.CY=fillCY(op1.range(n, n), op2.range(n, n), result.range(n, n), false);\
+      |
+AFTAB_ISS.cpp: In member function ‘DECODE_ENTRY issAFTAB::DecodeINST(DECODE_ENTRY*, sc_dt::sc_lv<32>)’:
+AFTAB_ISS.cpp:1610:1: warning: control reaches end of non-void function [-Wreturn-type]
+ 1610 | }
+      | ^
+/usr/bin/ld: /home/tinyubu/systemc-2.3.3/lib-linux64/libsystemc.so: undefined reference to `sc_main'
+collect2: error: ld returned 1 exit status
+tinyubu@Valeria:/mnt/d/Desktop/core/CA1_B/AFTAB_ISS_Core/AFTAB_ISS$ g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=$SYSTEMC_HOME/lib-linux64 -lsystemc -lm -o AFTAB Source.cpp
+/usr/bin/ld: /tmp/cclQJDqU.o: in function `issAFTAB::issAFTAB(sc_core::sc_module_name)':
+Source.cpp:(.text._ZN8issAFTABC2EN7sc_core14sc_module_nameE[_ZN8issAFTABC5EN7sc_core14sc_module_nameE]+0x1e8): undefined reference to `issAFTAB::Decode_Dispatch()'
+/usr/bin/ld: Source.cpp:(.text._ZN8issAFTABC2EN7sc_core14sc_module_nameE[_ZN8issAFTABC5EN7sc_core14sc_module_nameE]+0x30b): undefined reference to `issAFTAB::PendingInterrupts()'
+collect2: error: ld returned 1 exit status
+tinyubu@Valeria:/mnt/d/Desktop/core/CA1_B/AFTAB_ISS_Core/AFTAB_ISS$ g++ -I. -I$SYSTEMC_HOME/include -L. -L$SYSTEMC_HOME/lib-linux64 -Wl,-rpath=$SYSTEMC_HOME/lib-linux64 -lsystemc -lm -o AFTAB Source.cpp AFTAB_ISS.cpp
+AFTAB_ISS.cpp:1:9: warning: #pragma once in main file
+    1 | #pragma once
+      |         ^~~~
+In file included from AFTAB_ISS.cpp:3:
+AFTABMorph.h:377:80: warning: backslash and newline separated by space
+  377 | PSW_reg.CY=fillCY(op1.range(n, n), op2.range(n, n), result.range(n, n), false);\
+      |
+AFTAB_ISS.cpp: In member function ‘DECODE_ENTRY issAFTAB::DecodeINST(DECODE_ENTRY*, sc_dt::sc_lv<32>)’:
+AFTAB_ISS.cpp:1610:1: warning: control reaches end of non-void function [-Wreturn-type]
+ 1610 | }
+      | ^
+tinyubu@Valeria:/mnt/d/Desktop/core/CA1_B/AFTAB_ISS_Core/AFTAB_ISS$ ./AFTAB
+
+        SystemC 2.3.3-Accellera --- May 16 2024 19:45:10
+        Copyright (c) 1996-2018 by all Contributors,
+        ALL RIGHTS RESERVED
+BinMem File exists
+                                             ### PC = 0 Cycle : 0 & Time: 0###
+!!! RF[14] = 0
+
+Info: (I702) default timescale unit used for tracing: 1 ps (SOC_test_vcd.vcd)
+                                             ### PC = 4 Cycle : 8 & Time: 40###
+!!! RF[14] = 0
+                                             ### PC = 8 Cycle : 21 & Time: 105###
+!!! RF[14] = 0
+                                             ### PC = 12 Cycle : 34 & Time: 170###
+!!! RF[14] = 0
+                                             ### PC = 16 Cycle : 42 & Time: 210###
+!!! RF[14] = 0
+                                             ### PC = 20 Cycle : 50 & Time: 250###
+!!! RF[14] = 0
+                                             ### PC = 24 Cycle : 63 & Time: 315###
+!!! RF[14] = 0
+                                             ### PC = 28 Cycle : 71 & Time: 355###
+!!! RF[14] = 0
+                                             ### PC = 32 Cycle : 84 & Time: 420###
+!!! RF[14] = 0
+                                             ### PC = 36 Cycle : 92 & Time: 460###
+!!! RF[14] = 0
+                                             ### PC = 40 Cycle : 100 & Time: 500###
+!!! RF[14] = 0
+                                             ### PC = 44 Cycle : 113 & Time: 565###
+!!! RF[14] = 0
+                                             ### PC = 48 Cycle : 121 & Time: 605###
+!!! RF[14] = 0
+                                             ### PC = 52 Cycle : 134 & Time: 670###
+!!! RF[14] = 0
+                                             ### PC = 84 Cycle : 142 & Time: 710###
+!!! RF[14] = 0
+                                             ### PC = 88 Cycle : 155 & Time: 775###
+!!! RF[14] = 1
+                                             ### PC = 92 Cycle : 168 & Time: 840###
+!!! RF[14] = 1
+                                             ### PC = 56 Cycle : 176 & Time: 880###
+!!! RF[14] = 1
+                                             ### PC = 60 Cycle : 189 & Time: 945###
+!!! RF[14] = 1
+                                             ### PC = 64 Cycle : 202 & Time: 1010###
+!!! RF[14] = 1
+                                             ### PC = 68 Cycle : 243 & Time: 1215###
+!!! RF[14] = 1
+                                             ### PC = 72 Cycle : 256 & Time: 1280###
+!!! RF[14] = 1
+                                             ### PC = 76 Cycle : 269 & Time: 1345###
+!!! RF[14] = 1
+                                             ### PC = 80 Cycle : 277 & Time: 1385###
+!!! RF[14] = 1
+                                             ### PC = 84 Cycle : 290 & Time: 1450###
+!!! RF[14] = 1
+                                             ### PC = 88 Cycle : 303 & Time: 1515###
+!!! RF[14] = 2
+                                             ### PC = 92 Cycle : 316 & Time: 1580###
+!!! RF[14] = 2
+                                             ### PC = 56 Cycle : 324 & Time: 1620###
+!!! RF[14] = 2
+                                             ### PC = 60 Cycle : 337 & Time: 1685###
+!!! RF[14] = 1
+                                             ### PC = 64 Cycle : 350 & Time: 1750###
+!!! RF[14] = 1
+                                             ### PC = 68 Cycle : 391 & Time: 1955###
+!!! RF[14] = 1
+                                             ### PC = 72 Cycle : 404 & Time: 2020###
+!!! RF[14] = 1
+                                             ### PC = 76 Cycle : 417 & Time: 2085###
+!!! RF[14] = 1
+                                             ### PC = 80 Cycle : 425 & Time: 2125###
+!!! RF[14] = 1
+                                             ### PC = 84 Cycle : 438 & Time: 2190###
+!!! RF[14] = 1
+                                             ### PC = 88 Cycle : 451 & Time: 2255###
+!!! RF[14] = 3
+                                             ### PC = 92 Cycle : 464 & Time: 2320###
+!!! RF[14] = 3
+                                             ### PC = 56 Cycle : 472 & Time: 2360###
+!!! RF[14] = 3
+                                             ### PC = 60 Cycle : 485 & Time: 2425###
+!!! RF[14] = 2
+                                             ### PC = 64 Cycle : 498 & Time: 2490###
+!!! RF[14] = 2
+                                             ### PC = 68 Cycle : 539 & Time: 2695###
+!!! RF[14] = 2
+                                             ### PC = 72 Cycle : 552 & Time: 2760###
+!!! RF[14] = 2
+                                             ### PC = 76 Cycle : 565 & Time: 2825###
+!!! RF[14] = 2
+                                             ### PC = 80 Cycle : 573 & Time: 2865###
+!!! RF[14] = 2
+                                             ### PC = 84 Cycle : 586 & Time: 2930###
+!!! RF[14] = 2
+                                             ### PC = 88 Cycle : 599 & Time: 2995###
+!!! RF[14] = 4
+                                             ### PC = 92 Cycle : 612 & Time: 3060###
+!!! RF[14] = 4
+                                             ### PC = 56 Cycle : 620 & Time: 3100###
+!!! RF[14] = 4
+                                             ### PC = 60 Cycle : 633 & Time: 3165###
+!!! RF[14] = 6
+                                             ### PC = 64 Cycle : 646 & Time: 3230###
+!!! RF[14] = 6
+                                             ### PC = 68 Cycle : 687 & Time: 3435###
+!!! RF[14] = 6
+                                             ### PC = 72 Cycle : 700 & Time: 3500###
+!!! RF[14] = 6
+                                             ### PC = 76 Cycle : 713 & Time: 3565###
+!!! RF[14] = 6
+                                             ### PC = 80 Cycle : 721 & Time: 3605###
+!!! RF[14] = 6
+                                             ### PC = 84 Cycle : 734 & Time: 3670###
+!!! RF[14] = 6
+                                             ### PC = 88 Cycle : 747 & Time: 3735###
+!!! RF[14] = 5
+                                             ### PC = 92 Cycle : 760 & Time: 3800###
+!!! RF[14] = 5
+                                             ### PC = 56 Cycle : 768 & Time: 3840###
+!!! RF[14] = 5
+                                             ### PC = 60 Cycle : 781 & Time: 3905###
+!!! RF[14] = 24
+                                             ### PC = 64 Cycle : 794 & Time: 3970###
+!!! RF[14] = 24
+                                             ### PC = 68 Cycle : 835 & Time: 4175###
+!!! RF[14] = 24
+                                             ### PC = 72 Cycle : 848 & Time: 4240###
+!!! RF[14] = 24
+                                             ### PC = 76 Cycle : 861 & Time: 4305###
+!!! RF[14] = 24
+                                             ### PC = 80 Cycle : 869 & Time: 4345###
+!!! RF[14] = 24
+                                             ### PC = 84 Cycle : 882 & Time: 4410###
+!!! RF[14] = 24
+                                             ### PC = 88 Cycle : 895 & Time: 4475###
+!!! RF[14] = 6
+                                             ### PC = 92 Cycle : 908 & Time: 4540###
+!!! RF[14] = 6
+                                             ### PC = 56 Cycle : 916 & Time: 4580###
+!!! RF[14] = 6
+                                             ### PC = 60 Cycle : 929 & Time: 4645###
+!!! RF[14] = 120
+                                             ### PC = 64 Cycle : 942 & Time: 4710###
+!!! RF[14] = 120
+                                             ### PC = 68 Cycle : 983 & Time: 4915###
+!!! RF[14] = 120
+                                             ### PC = 72 Cycle : 996 & Time: 4980###
+!!! RF[14] = 120
+                                             ### PC = 76 Cycle : 1009 & Time: 5045###
+!!! RF[14] = 120
+                                             ### PC = 80 Cycle : 1017 & Time: 5085###
+!!! RF[14] = 120
+                                             ### PC = 84 Cycle : 1030 & Time: 5150###
+!!! RF[14] = 120
+                                             ### PC = 88 Cycle : 1043 & Time: 5215###
+!!! RF[14] = 7
+                                             ### PC = 92 Cycle : 1056 & Time: 5280###
+!!! RF[14] = 7
+                                             ### PC = 56 Cycle : 1064 & Time: 5320###
+!!! RF[14] = 7
+                                             ### PC = 60 Cycle : 1077 & Time: 5385###
+!!! RF[14] = 720
+                                             ### PC = 64 Cycle : 1090 & Time: 5450###
+!!! RF[14] = 720
+                                             ### PC = 68 Cycle : 1131 & Time: 5655###
+!!! RF[14] = 720
+                                             ### PC = 72 Cycle : 1144 & Time: 5720###
+!!! RF[14] = 720
+                                             ### PC = 76 Cycle : 1157 & Time: 5785###
+!!! RF[14] = 720
+                                             ### PC = 80 Cycle : 1165 & Time: 5825###
+!!! RF[14] = 720
+                                             ### PC = 84 Cycle : 1178 & Time: 5890###
+!!! RF[14] = 720
+                                             ### PC = 88 Cycle : 1191 & Time: 5955###
+!!! RF[14] = 8
+                                             ### PC = 92 Cycle : 1204 & Time: 6020###
+!!! RF[14] = 8
+                                             ### PC = 56 Cycle : 1212 & Time: 6060###
+!!! RF[14] = 8
+                                             ### PC = 60 Cycle : 1225 & Time: 6125###
+!!! RF[14] = 5040
+                                             ### PC = 64 Cycle : 1238 & Time: 6190###
+!!! RF[14] = 5040
+                                             ### PC = 68 Cycle : 1279 & Time: 6395###
+!!! RF[14] = 5040
+                                             ### PC = 72 Cycle : 1292 & Time: 6460###
+!!! RF[14] = 5040
+                                             ### PC = 76 Cycle : 1305 & Time: 6525###
+!!! RF[14] = 5040
+                                             ### PC = 80 Cycle : 1313 & Time: 6565###
+!!! RF[14] = 5040
+                                             ### PC = 84 Cycle : 1326 & Time: 6630###
+!!! RF[14] = 5040
+                                             ### PC = 88 Cycle : 1339 & Time: 6695###
+!!! RF[14] = 9
+                                             ### PC = 92 Cycle : 1352 & Time: 6760###
+!!! RF[14] = 9
+                                             ### PC = 56 Cycle : 1360 & Time: 6800###
+!!! RF[14] = 9
+                                             ### PC = 60 Cycle : 1373 & Time: 6865###
+!!! RF[14] = 40320
+                                             ### PC = 64 Cycle : 1386 & Time: 6930###
+!!! RF[14] = 40320
+                                             ### PC = 68 Cycle : 1427 & Time: 7135###
+!!! RF[14] = 40320
+                                             ### PC = 72 Cycle : 1440 & Time: 7200###
+!!! RF[14] = 40320
+                                             ### PC = 76 Cycle : 1453 & Time: 7265###
+!!! RF[14] = 40320
+                                             ### PC = 80 Cycle : 1461 & Time: 7305###
+!!! RF[14] = 40320
+                                             ### PC = 84 Cycle : 1474 & Time: 7370###
+!!! RF[14] = 40320
+                                             ### PC = 88 Cycle : 1487 & Time: 7435###
+!!! RF[14] = 10
+                                             ### PC = 92 Cycle : 1500 & Time: 7500###
+!!! RF[14] = 10
+                                             ### PC = 56 Cycle : 1508 & Time: 7540###
+!!! RF[14] = 10
+                                             ### PC = 60 Cycle : 1521 & Time: 7605###
+!!! RF[14] = 362880
+                                             ### PC = 64 Cycle : 1534 & Time: 7670###
+!!! RF[14] = 362880
+                                             ### PC = 68 Cycle : 1575 & Time: 7875###
+!!! RF[14] = 362880
+                                             ### PC = 72 Cycle : 1588 & Time: 7940###
+!!! RF[14] = 362880
+                                             ### PC = 76 Cycle : 1601 & Time: 8005###
+!!! RF[14] = 362880
+                                             ### PC = 80 Cycle : 1609 & Time: 8045###
+!!! RF[14] = 362880
+                                             ### PC = 84 Cycle : 1622 & Time: 8110###
+!!! RF[14] = 362880
+                                             ### PC = 88 Cycle : 1635 & Time: 8175###
+!!! RF[14] = 11
+                                             ### PC = 92 Cycle : 1648 & Time: 8240###
+!!! RF[14] = 11
+                                             ### PC = 96 Cycle : 1656 & Time: 8280###
+!!! RF[14] = 11
+                                             ### PC = 100 Cycle : 1669 & Time: 8345###
+!!! RF[14] = 11
+                                             ### PC = 104 Cycle : 1682 & Time: 8410###
+!!! RF[14] = 3628800
+                                             ### PC = 108 Cycle : 1695 & Time: 8475###
+!!! RF[14] = 3628800
+                                             ### PC = 112 Cycle : 1703 & Time: 8515###
+!!! RF[14] = 3628800
+                                             ### PC = 116 Cycle : 1711 & Time: 8555###
+!!! RF[14] = 3628800
+                                             ### PC = 120 Cycle : 1724 & Time: 8620###
+!!! RF[14] = 3628800
+                                             ### PC = 124 Cycle : 1737 & Time: 8685###
+!!! RF[14] = 3628800
+Inst Not Found 4294967295
+free(): invalid pointer
+Aborted (core dumped)
+tinyubu@Valeria:/mnt/d/Desktop/core/CA1_B/AFTAB_ISS_Core/AFTAB_ISS$

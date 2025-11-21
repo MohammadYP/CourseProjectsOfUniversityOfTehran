@@ -1,5 +1,5 @@
 
-TARGET ?= factorial_interrupt
+TARGET ?= factorial
 OBJS ?= $(TARGET).cpp
 
 MAKE_PATH := $(abspath $(lastword $(MAKEFILE_LIST)))

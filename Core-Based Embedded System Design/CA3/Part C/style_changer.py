@@ -1,5 +1,5 @@
 # File paths
-input_file = "factorial_gpio.txt"     # Replace with your actual input file
+input_file = "factorial_io.txt"     # Replace with your actual input file
 output_file = "converted_data.txt" # Output file
 
 def convert_line(line):
