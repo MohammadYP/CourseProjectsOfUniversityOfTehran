@@ -1,0 +1,2188 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+Eaftab_aau
+Z0 w1667508874
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 190
+Z5 dD:/Desktop/core/CA1/test_m
+Z6 8D:/Desktop/core/CA1/test_m/aftab_aau.vhd
+Z7 FD:/Desktop/core/CA1/test_m/aftab_aau.vhd
+l0
+Z8 L40 1
+Vb96?zU[0?;17`bNbElz^_0
+!s100 i[iA4JjWfT]1JJ03Ie?0K3
+Z9 OV;C;2020.1;71
+33
+Z10 !s110 1741876647
+!i10b 1
+Z11 !s108 1741876647.000000
+Z12 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_aau.vhd|
+Z13 !s107 D:/Desktop/core/CA1/test_m/aftab_aau.vhd|
+!i113 1
+Z14 o-work work -2008 -explicit
+Z15 tExplicit 1 CvgOpt 0
+Abehavioral
+Z16 DEx4 work 16 aftab_su_divider 0 22 OAlkB5_HV2IYgFz_5^D;:2
+Z17 DEx4 work 22 aftab_booth_multiplier 0 22 WbFja7i17K59HSSJOl9LH2
+R1
+R2
+R3
+R4
+Z18 DEx4 work 9 aftab_aau 0 22 b96?zU[0?;17`bNbElz^_0
+!i122 190
+l72
+L61 52
+V9b5iNS@Pd^_HYM>]jjLRY3
+!s100 `d]I?aJf^dMPLF[gil`Dh2
+R9
+33
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Eaftab_adder
+R0
+R1
+R2
+R3
+R4
+!i122 191
+R5
+Z19 8D:/Desktop/core/CA1/test_m/aftab_adder.vhd
+Z20 FD:/Desktop/core/CA1/test_m/aftab_adder.vhd
+l0
+Z21 L41 1
+V=<^O:W^b0YfGlfK6FY[RR2
+!s100 RMYS4MW@c>K707jF=`zZV3
+R9
+33
+R10
+!i10b 1
+R11
+Z22 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_adder.vhd|
+Z23 !s107 D:/Desktop/core/CA1/test_m/aftab_adder.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R2
+R3
+R4
+Z24 DEx4 work 11 aftab_adder 0 22 =<^O:W^b0YfGlfK6FY[RR2
+!i122 191
+l54
+L52 7
+VzX@f<SG?=c[`Jkakh]TWS3
+!s100 W]h]`WzXBm@LzjDcjG=P42
+R9
+33
+R10
+!i10b 1
+R11
+R22
+R23
+!i113 1
+R14
+R15
+Eaftab_adder_subtractor
+R0
+Z25 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R1
+R2
+R3
+R4
+!i122 192
+R5
+Z26 8D:/Desktop/core/CA1/test_m/aftab_adder_subtractor.vhd
+Z27 FD:/Desktop/core/CA1/test_m/aftab_adder_subtractor.vhd
+l0
+Z28 L42 1
+VKgzom1_3LkEc1b_VBJoj=2
+!s100 0QOHN35SzHjI=X4gNkbR]0
+R9
+33
+R10
+!i10b 1
+R11
+Z29 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_adder_subtractor.vhd|
+Z30 !s107 D:/Desktop/core/CA1/test_m/aftab_adder_subtractor.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R24
+R25
+R1
+R2
+R3
+R4
+Z31 DEx4 work 22 aftab_adder_subtractor 0 22 Kgzom1_3LkEc1b_VBJoj=2
+!i122 192
+l57
+Z32 L54 15
+VB[8dDO@^;EYQ_6n3[[DEL2
+!s100 Pgod@XHIF4iWfeP90UgoC1
+R9
+33
+R10
+!i10b 1
+R11
+R29
+R30
+!i113 1
+R14
+R15
+Eaftab_barrel_shifter
+R0
+R25
+R1
+R2
+R3
+R4
+!i122 193
+R5
+Z33 8D:/Desktop/core/CA1/test_m/aftab_barrel_shifter.vhd
+Z34 FD:/Desktop/core/CA1/test_m/aftab_barrel_shifter.vhd
+l0
+R28
+V9Mf6lN8]R33:9:8J`S3ko1
+!s100 VSWze:XLEngioCH`Rl;<C3
+R9
+33
+R10
+!i10b 1
+R11
+Z35 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_barrel_shifter.vhd|
+Z36 !s107 D:/Desktop/core/CA1/test_m/aftab_barrel_shifter.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R25
+R1
+R2
+R3
+R4
+Z37 DEx4 work 20 aftab_barrel_shifter 0 22 9Mf6lN8]R33:9:8J`S3ko1
+!i122 193
+l53
+L52 14
+VR=eWb2hL9U_2:<R`;MUnQ2
+!s100 Tb5AhH<8BL^S:gTo^ET1b2
+R9
+33
+R10
+!i10b 1
+R11
+R35
+R36
+!i113 1
+R14
+R15
+Eaftab_booth_multiplier
+R0
+R3
+R4
+!i122 194
+R5
+Z38 8D:/Desktop/core/CA1/test_m/aftab_booth_multiplier.vhd
+Z39 FD:/Desktop/core/CA1/test_m/aftab_booth_multiplier.vhd
+l0
+Z40 L39 1
+VWbFja7i17K59HSSJOl9LH2
+!s100 H7iLS5E@5d]lkf`17Dn@20
+R9
+33
+R10
+!i10b 1
+R11
+Z41 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_booth_multiplier.vhd|
+Z42 !s107 D:/Desktop/core/CA1/test_m/aftab_booth_multiplier.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R25
+R1
+R2
+Z43 DEx4 work 33 aftab_booth_multiplier_controller 0 22 <_ZmzzI:]ON39ADo]c30D0
+Z44 DEx4 work 31 aftab_booth_multiplier_datapath 0 22 k^aogz2zh7]ZcINeDiMeV1
+R3
+R4
+R17
+!i122 194
+l63
+L54 46
+V@I^JJd2JBJJ=Q>=1IGWhT3
+!s100 7O]bVGM]J>hdOMNIUBGB23
+R9
+33
+Z45 !s110 1741876648
+!i10b 1
+R11
+R41
+R42
+!i113 1
+R14
+R15
+Eaftab_booth_multiplier_controller
+R0
+R25
+R1
+R2
+R3
+R4
+!i122 195
+R5
+Z46 8D:/Desktop/core/CA1/test_m/aftab_booth_multiplier_controller.vhd
+Z47 FD:/Desktop/core/CA1/test_m/aftab_booth_multiplier_controller.vhd
+l0
+R21
+V<_ZmzzI:]ON39ADo]c30D0
+!s100 g3FIig:82;?eD2`V=[7P62
+R9
+33
+R45
+!i10b 1
+Z48 !s108 1741876648.000000
+Z49 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_booth_multiplier_controller.vhd|
+Z50 !s107 D:/Desktop/core/CA1/test_m/aftab_booth_multiplier_controller.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+Z51 DEx4 work 13 aftab_counter 0 22 :fX?YYFN[OE:mc:WN34Pl3
+R25
+R1
+R2
+R3
+R4
+R43
+!i122 195
+l73
+L63 108
+V31o9aGYT>o_<g4oX[PT8G3
+!s100 R]?UPUYHi4MKo;5;aV^cK3
+R9
+33
+R45
+!i10b 1
+R48
+R49
+R50
+!i113 1
+R14
+R15
+Eaftab_booth_multiplier_datapath
+R0
+R3
+R4
+!i122 196
+R5
+Z52 8D:/Desktop/core/CA1/test_m/aftab_booth_multiplier_datapath.vhd
+Z53 FD:/Desktop/core/CA1/test_m/aftab_booth_multiplier_datapath.vhd
+l0
+R40
+Vk^aogz2zh7]ZcINeDiMeV1
+!s100 cl2OVg<88]J;aHD56KYA@1
+R9
+33
+R45
+!i10b 1
+R48
+Z54 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_booth_multiplier_datapath.vhd|
+Z55 !s107 D:/Desktop/core/CA1/test_m/aftab_booth_multiplier_datapath.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R25
+R31
+Z56 DEx4 work 20 aftab_shift_register 0 22 LdTgOR_j[YG?gJHmK0WCW1
+R1
+R2
+Z57 DEx4 work 14 aftab_register 0 22 Q[WMa<2XgNhKgdfYBKje>3
+R3
+R4
+R44
+!i122 196
+l67
+L59 63
+VBdNC>GG6UJj2j6[ki];h31
+!s100 QjnXa^D8DTC`M3mLa]Y=>2
+R9
+33
+R45
+!i10b 1
+R48
+R54
+R55
+!i113 1
+R14
+R15
+Eaftab_comparator
+R0
+R1
+R2
+R3
+R4
+!i122 197
+R5
+Z58 8D:/Desktop/core/CA1/test_m/aftab_comparator.vhd
+Z59 FD:/Desktop/core/CA1/test_m/aftab_comparator.vhd
+l0
+R21
+V^j@oOWDli0TJPG1OnL]f10
+!s100 1z2Do2c?41giOUWTbSSg;2
+R9
+33
+R45
+!i10b 1
+R48
+Z60 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_comparator.vhd|
+Z61 !s107 D:/Desktop/core/CA1/test_m/aftab_comparator.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R2
+R3
+R4
+Z62 DEx4 work 16 aftab_comparator 0 22 ^j@oOWDli0TJPG1OnL]f10
+!i122 197
+l56
+L53 12
+V^heRA;3[_B?YM9OXWkREC1
+!s100 HdG7Yz4>KnZOUfAl8zeYG3
+R9
+33
+R45
+!i10b 1
+R48
+R60
+R61
+!i113 1
+R14
+R15
+Eaftab_controller
+R0
+R1
+R2
+R3
+R4
+!i122 198
+R5
+Z63 8D:/Desktop/core/CA1/test_m/aftab_controller.vhd
+Z64 FD:/Desktop/core/CA1/test_m/aftab_controller.vhd
+l0
+R8
+VEPQRmf@7Sac?8f8J]8?Ho3
+!s100 iJEKK=R`ih`dJgaJUBl>z1
+R9
+33
+R45
+!i10b 1
+R48
+Z65 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_controller.vhd|
+Z66 !s107 D:/Desktop/core/CA1/test_m/aftab_controller.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R2
+R3
+R4
+Z67 DEx4 work 16 aftab_controller 0 22 EPQRmf@7Sac?8f8J]8?Ho3
+!i122 198
+l194
+L155 822
+VLl:PCl>lVzBGV<^ZmoXF40
+!s100 l<hMe??]8>=9QkAgQ_U=?3
+R9
+33
+R45
+!i10b 1
+R48
+R65
+R66
+!i113 1
+R14
+R15
+Eaftab_core
+R0
+R3
+R4
+!i122 199
+R5
+Z68 8D:/Desktop/core/CA1/test_m/aftab_core.vhd
+Z69 FD:/Desktop/core/CA1/test_m/aftab_core.vhd
+l0
+R40
+V9zjhJf]8<9ZF5d`ehi;e:1
+!s100 fUHIe5T7C<9Me3:DD7mI^2
+R9
+33
+R45
+!i10b 1
+R48
+Z70 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_core.vhd|
+Z71 !s107 D:/Desktop/core/CA1/test_m/aftab_core.vhd|
+!i113 1
+R14
+R15
+Aprocedural
+R1
+R2
+R67
+Z72 DEx4 work 14 aftab_datapath 0 22 R=IYY664zcBM85_GRmJzO2
+R3
+R4
+Z73 DEx4 work 10 aftab_core 0 22 9zjhJf]8<9ZF5d`ehi;e:1
+!i122 199
+l174
+L64 351
+VYRnShj0<cgUe2oYjlNTe?1
+!s100 P]?jMH`B5NV5?i@fJmCZh3
+R9
+33
+R45
+!i10b 1
+R48
+R70
+R71
+!i113 1
+R14
+R15
+Eaftab_counter
+R0
+R2
+R1
+R3
+R4
+!i122 200
+R5
+Z74 8D:/Desktop/core/CA1/test_m/aftab_counter.vhd
+Z75 FD:/Desktop/core/CA1/test_m/aftab_counter.vhd
+l0
+R28
+V:fX?YYFN[OE:mc:WN34Pl3
+!s100 6IQG`kLfWT[B<8NLjkjlf1
+R9
+33
+R45
+!i10b 1
+R48
+Z76 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_counter.vhd|
+Z77 !s107 D:/Desktop/core/CA1/test_m/aftab_counter.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R2
+R1
+R3
+R4
+R51
+!i122 200
+l57
+L54 22
+VZO>Oe305R<Ulfi=K1<m]L1
+!s100 0EA7VRn7mdg5DjjPgAS^z1
+R9
+33
+R45
+!i10b 1
+R48
+R76
+R77
+!i113 1
+R14
+R15
+Eaftab_csr_address_ctrl
+R0
+R25
+R3
+R4
+!i122 201
+R5
+Z78 8D:/Desktop/core/CA1/test_m/aftab_csr_address_ctrl.vhd
+Z79 FD:/Desktop/core/CA1/test_m/aftab_csr_address_ctrl.vhd
+l0
+R8
+Vf<hK[A<UX8a`7FoX3NI3k1
+!s100 04Ui?`heJQ1?Q9fDhH5YM3
+R9
+33
+R45
+!i10b 1
+R48
+Z80 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_csr_address_ctrl.vhd|
+Z81 !s107 D:/Desktop/core/CA1/test_m/aftab_csr_address_ctrl.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R25
+R3
+R4
+Z82 DEx4 work 22 aftab_csr_address_ctrl 0 22 f<hK[A<UX8a`7FoX3NI3k1
+!i122 201
+l52
+L50 23
+V5>9k@bzkO@kAzPP:6YnCE0
+!s100 4^IU41lL:Z=I;2KQC:`3Y3
+R9
+33
+R45
+!i10b 1
+R48
+R80
+R81
+!i113 1
+R14
+R15
+Eaftab_csr_address_logic
+R0
+R1
+R2
+R3
+R4
+!i122 202
+R5
+Z83 8D:/Desktop/core/CA1/test_m/aftab_csr_address_logic.vhd
+Z84 FD:/Desktop/core/CA1/test_m/aftab_csr_address_logic.vhd
+l0
+R8
+V_D[V]EOoDjXX01On<N9[=2
+!s100 Focj56H:`LZeZe_akl6Bl3
+R9
+33
+Z85 !s110 1741876649
+!i10b 1
+R48
+Z86 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_csr_address_logic.vhd|
+Z87 !s107 D:/Desktop/core/CA1/test_m/aftab_csr_address_logic.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R2
+R3
+R4
+Z88 DEx4 work 23 aftab_csr_address_logic 0 22 _D[V]EOoDjXX01On<N9[=2
+!i122 202
+l55
+L53 13
+VnEA8oa:LniPj3iR91j;V=3
+!s100 VgCj1;CN4CQ0^16bY[Kn<1
+R9
+33
+R85
+!i10b 1
+R48
+R86
+R87
+!i113 1
+R14
+R15
+Eaftab_csr_addressing_decoder
+R0
+R25
+R3
+R4
+!i122 203
+R5
+Z89 8D:/Desktop/core/CA1/test_m/aftab_csr_addressing_decoder.vhd
+Z90 FD:/Desktop/core/CA1/test_m/aftab_csr_addressing_decoder.vhd
+l0
+R8
+VD[Gc>a_QPH3J3dP1=YMm[1
+!s100 81Ci0jPKb=]S2?dkbIGF31
+R9
+33
+R85
+!i10b 1
+Z91 !s108 1741876649.000000
+Z92 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_csr_addressing_decoder.vhd|
+Z93 !s107 D:/Desktop/core/CA1/test_m/aftab_csr_addressing_decoder.vhd|
+!i113 1
+R14
+R15
+Afunctional
+R25
+R3
+R4
+Z94 DEx4 work 28 aftab_csr_addressing_decoder 0 22 D[Gc>a_QPH3J3dP1=YMm[1
+!i122 203
+l49
+L48 20
+V?HeJaKZEO8_Qg[GCMBlK]1
+!s100 M38B6>fl6R9hoJgjM=69Q3
+R9
+33
+R85
+!i10b 1
+R91
+R92
+R93
+!i113 1
+R14
+R15
+Eaftab_csr_counter
+R0
+R2
+R1
+R3
+R4
+!i122 204
+R5
+Z95 8D:/Desktop/core/CA1/test_m/aftab_csr_counter.vhd
+Z96 FD:/Desktop/core/CA1/test_m/aftab_csr_counter.vhd
+l0
+Z97 L43 1
+V45jE4Z]kHA13]>IZBdA?S1
+!s100 U;k_CffnKT78JMSf[o[oS3
+R9
+33
+R85
+!i10b 1
+R91
+Z98 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_csr_counter.vhd|
+Z99 !s107 D:/Desktop/core/CA1/test_m/aftab_csr_counter.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R2
+R1
+R3
+R4
+Z100 DEx4 work 17 aftab_csr_counter 0 22 45jE4Z]kHA13]>IZBdA?S1
+!i122 204
+l61
+L58 24
+VF:hD5aJaKVb0kYY;LHH]]1
+!s100 NYfHL`fFgbmULOaHYABha0
+R9
+33
+R85
+!i10b 1
+R91
+R98
+R99
+!i113 1
+R14
+R15
+Eaftab_csr_isl
+Z101 w1710359463
+R1
+R2
+R3
+R4
+!i122 205
+R5
+Z102 8D:/Desktop/core/CA1/test_m/aftab_csr_isl.vhd
+Z103 FD:/Desktop/core/CA1/test_m/aftab_csr_isl.vhd
+l0
+R8
+V_l?X:IadPUl1M3:7EcINo0
+!s100 AZf6z:T2z47O@X]T;6[mM1
+R9
+33
+R85
+!i10b 1
+R91
+Z104 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_csr_isl.vhd|
+Z105 !s107 D:/Desktop/core/CA1/test_m/aftab_csr_isl.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R2
+R3
+R4
+Z106 DEx4 work 13 aftab_csr_isl 0 22 _l?X:IadPUl1M3:7EcINo0
+!i122 205
+l78
+L75 26
+Vj;BRU?fzNhH:k<Eh?oo`;1
+!s100 zDlL6Q=6MdMbg:XaZJWC=3
+R9
+33
+R85
+!i10b 1
+R91
+R104
+R105
+!i113 1
+R14
+R15
+Eaftab_csr_registers
+R0
+R25
+R3
+R4
+!i122 206
+R5
+Z107 8D:/Desktop/core/CA1/test_m/aftab_csr_registers.vhd
+Z108 FD:/Desktop/core/CA1/test_m/aftab_csr_registers.vhd
+l0
+R21
+Vga<a3C]V@K?9lH3U:fDXa3
+!s100 HTX8dVTh4T@ZziNh`V69m1
+R9
+33
+R85
+!i10b 1
+R91
+Z109 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_csr_registers.vhd|
+Z110 !s107 D:/Desktop/core/CA1/test_m/aftab_csr_registers.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R25
+R3
+R4
+Z111 DEx4 work 19 aftab_csr_registers 0 22 ga<a3C]V@K?9lH3U:fDXa3
+!i122 206
+l61
+L54 21
+VJ3aMP==AamgAXnPm:2g@52
+!s100 5K]a1jf6:e8]0fkHE1eiT1
+R9
+33
+R85
+!i10b 1
+R91
+R109
+R110
+!i113 1
+R14
+R15
+Eaftab_daru
+R0
+R3
+R4
+!i122 207
+R5
+Z112 8D:/Desktop/core/CA1/test_m/aftab_daru.vhd
+Z113 FD:/Desktop/core/CA1/test_m/aftab_daru.vhd
+l0
+R40
+VV>dPRX6HD@DekWBP<RN4;3
+!s100 9n8l_98:INDHzMc7mcWdJ0
+R9
+33
+R85
+!i10b 1
+R91
+Z114 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_daru.vhd|
+Z115 !s107 D:/Desktop/core/CA1/test_m/aftab_daru.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+Z116 DEx4 work 21 aftab_daru_controller 0 22 K>7@IQNlAUAkaK0lHXNCO3
+R1
+R2
+Z117 DEx4 work 19 aftab_daru_datapath 0 22 iNzil19TQSXbfV>Q]HoLM0
+R3
+R4
+Z118 DEx4 work 10 aftab_daru 0 22 V>dPRX6HD@DekWBP<RN4;3
+!i122 207
+l75
+L60 67
+V56e4PLXLikb`9InJ^>QZ02
+!s100 =gzi`n0F3X3L9=Y2TlQ[O1
+R9
+33
+R85
+!i10b 1
+R91
+R114
+R115
+!i113 1
+R14
+R15
+Eaftab_daru_controller
+R0
+R3
+R4
+!i122 208
+R5
+Z119 8D:/Desktop/core/CA1/test_m/aftab_daru_controller.vhd
+Z120 FD:/Desktop/core/CA1/test_m/aftab_daru_controller.vhd
+l0
+R40
+VK>7@IQNlAUAkaK0lHXNCO3
+!s100 _ooF21YM<]PJDFo@:l`Yk2
+R9
+33
+R85
+!i10b 1
+R91
+Z121 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_daru_controller.vhd|
+Z122 !s107 D:/Desktop/core/CA1/test_m/aftab_daru_controller.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R3
+R4
+R116
+!i122 208
+l66
+L63 78
+VkP4U37MY67;[IXdTgQ3``3
+!s100 i7MV@SmGEZD7hoV`GP;X:3
+R9
+33
+R85
+!i10b 1
+R91
+R121
+R122
+!i113 1
+R14
+R15
+Eaftab_daru_datapath
+R0
+R1
+R2
+R3
+R4
+!i122 209
+R5
+Z123 8D:/Desktop/core/CA1/test_m/aftab_daru_datapath.vhd
+Z124 FD:/Desktop/core/CA1/test_m/aftab_daru_datapath.vhd
+l0
+R8
+ViNzil19TQSXbfV>Q]HoLM0
+!s100 m79?eZG2S`RRj9Jkg@]Ze0
+R9
+33
+R85
+!i10b 1
+R91
+Z125 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_daru_datapath.vhd|
+Z126 !s107 D:/Desktop/core/CA1/test_m/aftab_daru_datapath.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+Z127 DEx4 work 25 aftab_daru_error_detector 0 22 :fi8gohn:<1WJ1=f:DjTT1
+Z128 DEx4 work 15 aftab_opt_adder 0 22 36`KA=n6SXlojFV3ke0<;2
+R51
+Z129 DEx4 work 13 aftab_decoder 0 22 AeBW<b9e2NZKOkiIVQcOc3
+R57
+R1
+R2
+R3
+R4
+R117
+!i122 209
+l79
+L72 123
+V7UCUV6[7IzfQCfk;Oe:Z63
+!s100 dMG`4bUeka7IRoV@]1[Pm3
+R9
+33
+R85
+!i10b 1
+R91
+R125
+R126
+!i113 1
+R14
+R15
+Eaftab_daru_error_detector
+R0
+R1
+R2
+R3
+R4
+!i122 210
+R5
+Z130 8D:/Desktop/core/CA1/test_m/aftab_daru_error_detector.vhd
+Z131 FD:/Desktop/core/CA1/test_m/aftab_daru_error_detector.vhd
+l0
+R8
+V:fi8gohn:<1WJ1=f:DjTT1
+!s100 0]8JCWS^B37=D`fPDZ>0N2
+R9
+33
+R85
+!i10b 1
+R91
+Z132 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_daru_error_detector.vhd|
+Z133 !s107 D:/Desktop/core/CA1/test_m/aftab_daru_error_detector.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R2
+R3
+R4
+R127
+!i122 210
+l63
+L54 18
+VDd6=I9RD5FSB<]C_lk7]S1
+!s100 =8e5gcZZ:ja08[G[mI`^X2
+R9
+33
+R85
+!i10b 1
+R91
+R132
+R133
+!i113 1
+R14
+R15
+Eaftab_datapath
+R0
+R3
+R4
+!i122 211
+R5
+Z134 8D:/Desktop/core/CA1/test_m/aftab_datapath.vhd
+Z135 FD:/Desktop/core/CA1/test_m/aftab_datapath.vhd
+l0
+R40
+VR=IYY664zcBM85_GRmJzO2
+!s100 2kc9JC6^[mco4`4k<]KV[2
+R9
+33
+Z136 !s110 1741876650
+!i10b 1
+Z137 !s108 1741876650.000000
+Z138 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_datapath.vhd|
+Z139 !s107 D:/Desktop/core/CA1/test_m/aftab_datapath.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+Z140 DEx4 work 11 aftab_isagu 0 22 9FWBH1=_nj8GY5Fc6hk782
+Z141 DEx4 work 10 aftab_iccd 0 22 4`D^6Uo@fz?Q9_RGi]aHz1
+R94
+R100
+Z142 DEx4 work 19 aftab_register_bank 0 22 3=^=8z=P<GGOJOVcX[zlH3
+R106
+Z143 DEx4 work 10 aftab_sulu 0 22 S144Yko2dXRdQm3GIdd_c1
+R118
+Z144 DEx4 work 10 aftab_dawu 0 22 D1<YFXYo>YDUUf:cLzLd^0
+R18
+R31
+R62
+R37
+Z145 DEx4 work 9 aftab_llu 0 22 SS`LXIZe2f5o=KMbOhn6k3
+Z146 DEx4 work 17 aftab_multiplexer 0 22 2YEUQKOBGCf:HBLQP]I6j2
+R24
+Z147 DEx4 work 11 aftab_isseu 0 22 5H:06[C?[IZ`O9[XaXQUV1
+R1
+R2
+R57
+Z148 DEx4 work 19 aftab_register_file 0 22 L6CEAoN4`oQ3@MhjWOZPe0
+R25
+R82
+R3
+R4
+R72
+!i122 211
+l228
+L171 509
+VQ?gWKYO?PaT3gg6ThOP7^3
+!s100 eHHI@b_L2ZooFW@QIaO341
+R9
+33
+R136
+!i10b 1
+R137
+R138
+R139
+!i113 1
+R14
+R15
+Eaftab_dawu
+R0
+R2
+R1
+R3
+R4
+!i122 212
+R5
+Z149 8D:/Desktop/core/CA1/test_m/aftab_dawu.vhd
+Z150 FD:/Desktop/core/CA1/test_m/aftab_dawu.vhd
+l0
+R21
+VD1<YFXYo>YDUUf:cLzLd^0
+!s100 O4@K6f9U_Rbd=D<BYHY[m1
+R9
+33
+R136
+!i10b 1
+R137
+Z151 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_dawu.vhd|
+Z152 !s107 D:/Desktop/core/CA1/test_m/aftab_dawu.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+Z153 DEx4 work 21 aftab_dawu_controller 0 22 Rb[96khcH8=abhhK2V[BE3
+Z154 DEx4 work 19 aftab_dawu_datapath 0 22 T2LABkQFRdU5n;L<1QJo62
+R2
+R1
+R3
+R4
+R144
+!i122 212
+l75
+L62 62
+V6]0LA11ZiWzYmi3?0I9Cz2
+!s100 l0718fV_3T=`SlXX9`9>b2
+R9
+33
+R136
+!i10b 1
+R137
+R151
+R152
+!i113 1
+R14
+R15
+Eaftab_dawu_controller
+R0
+R3
+R4
+!i122 213
+R5
+Z155 8D:/Desktop/core/CA1/test_m/aftab_dawu_controller.vhd
+Z156 FD:/Desktop/core/CA1/test_m/aftab_dawu_controller.vhd
+l0
+R40
+VRb[96khcH8=abhhK2V[BE3
+!s100 Y0`MgOjIKLZ]@JKM4n`]:1
+R9
+33
+R136
+!i10b 1
+R137
+Z157 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_dawu_controller.vhd|
+Z158 !s107 D:/Desktop/core/CA1/test_m/aftab_dawu_controller.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R3
+R4
+R153
+!i122 213
+l66
+L63 90
+Vb1gHKHF0>n`7MiV;9]2g31
+!s100 ImD1IK@_6me89_Q@E]hL33
+R9
+33
+R136
+!i10b 1
+R137
+R157
+R158
+!i113 1
+R14
+R15
+Eaftab_dawu_datapath
+R0
+R1
+R2
+R3
+R4
+!i122 214
+R5
+Z159 8D:/Desktop/core/CA1/test_m/aftab_dawu_datapath.vhd
+Z160 FD:/Desktop/core/CA1/test_m/aftab_dawu_datapath.vhd
+l0
+R8
+VT2LABkQFRdU5n;L<1QJo62
+!s100 BaDZ;^IT:CDO2`EX8K3fn0
+R9
+33
+R136
+!i10b 1
+R137
+Z161 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_dawu_datapath.vhd|
+Z162 !s107 D:/Desktop/core/CA1/test_m/aftab_dawu_datapath.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+Z163 DEx4 work 25 aftab_dawu_error_detector 0 22 j;J`h2P2A0Ejl]cgE6WYk0
+R128
+R51
+R57
+R1
+R2
+R3
+R4
+R154
+!i122 214
+l80
+L70 118
+V0N:YFRhg:R_cH;31<l1KS1
+!s100 A`KPPS^[L6oe?6[=41>Vg3
+R9
+33
+R136
+!i10b 1
+R137
+R161
+R162
+!i113 1
+R14
+R15
+Eaftab_dawu_error_detector
+R0
+R1
+R2
+R3
+R4
+!i122 215
+R5
+Z164 8D:/Desktop/core/CA1/test_m/aftab_dawu_error_detector.vhd
+Z165 FD:/Desktop/core/CA1/test_m/aftab_dawu_error_detector.vhd
+l0
+R21
+Vj;J`h2P2A0Ejl]cgE6WYk0
+!s100 797Nhj]:LP8SETi6KSYEU0
+R9
+33
+R136
+!i10b 1
+R137
+Z166 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_dawu_error_detector.vhd|
+Z167 !s107 D:/Desktop/core/CA1/test_m/aftab_dawu_error_detector.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R2
+R3
+R4
+R163
+!i122 215
+l57
+L53 11
+VnHLc2X`W0M4DRG]kW_:9H0
+!s100 68mmBg<>:8QB=Om5UPmgR1
+R9
+33
+R136
+!i10b 1
+R137
+R166
+R167
+!i113 1
+R14
+R15
+Eaftab_decoder
+R0
+R3
+R4
+!i122 216
+R5
+Z168 8D:/Desktop/core/CA1/test_m/aftab_decoder.vhd
+Z169 FD:/Desktop/core/CA1/test_m/aftab_decoder.vhd
+l0
+R8
+VAeBW<b9e2NZKOkiIVQcOc3
+!s100 cZ0:GIdCcZ8PDSKOIzN7:1
+R9
+33
+R136
+!i10b 1
+R137
+Z170 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_decoder.vhd|
+Z171 !s107 D:/Desktop/core/CA1/test_m/aftab_decoder.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R3
+R4
+R129
+!i122 216
+l49
+L48 17
+VnQe1R_jM;ASDPd>ffJ1PN3
+!s100 S>F=_o7Wl;8doGlCXS6`n2
+R9
+33
+R136
+!i10b 1
+R137
+R170
+R171
+!i113 1
+R14
+R15
+Eaftab_divider
+R0
+R3
+R4
+!i122 217
+R5
+Z172 8D:/Desktop/core/CA1/test_m/aftab_divider.vhd
+Z173 FD:/Desktop/core/CA1/test_m/aftab_divider.vhd
+l0
+R40
+VzckdYESW:87<YK:8Q^ndn0
+!s100 @HeD4g@YccIYfg5]d2S`l3
+R9
+33
+R136
+!i10b 1
+R137
+Z174 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_divider.vhd|
+Z175 !s107 D:/Desktop/core/CA1/test_m/aftab_divider.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R25
+Z176 DEx4 work 24 aftab_divider_controller 0 22 e6Kh@:gNS^<N^2GmgNZWK1
+R1
+R2
+Z177 DEx4 work 22 aftab_divider_datapath 0 22 4c:?jg7HznlDHO=>ETg:F3
+R3
+R4
+Z178 DEx4 work 13 aftab_divider 0 22 zckdYESW:87<YK:8Q^ndn0
+!i122 217
+l69
+L54 65
+VDeNT0FR<gi8]dRb6lncIX1
+!s100 E@@ZTYm4Kn;?5VDC<FHAm2
+R9
+33
+R136
+!i10b 1
+R137
+R174
+R175
+!i113 1
+R14
+R15
+Eaftab_divider_controller
+R0
+R25
+R1
+R2
+R3
+R4
+!i122 218
+R5
+Z179 8D:/Desktop/core/CA1/test_m/aftab_divider_controller.vhd
+Z180 FD:/Desktop/core/CA1/test_m/aftab_divider_controller.vhd
+l0
+R28
+Ve6Kh@:gNS^<N^2GmgNZWK1
+!s100 CYTBYL761jZk4iB]1[ZeE0
+R9
+33
+R136
+!i10b 1
+R137
+Z181 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_divider_controller.vhd|
+Z182 !s107 D:/Desktop/core/CA1/test_m/aftab_divider_controller.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R51
+R25
+R1
+R2
+R3
+R4
+R176
+!i122 218
+l74
+L66 109
+V<T?lBIFiDUImaEhb7z@C>2
+!s100 ^e[gfnZ5X2<3[;=RhnR4F2
+R9
+33
+R136
+!i10b 1
+R137
+R181
+R182
+!i113 1
+R14
+R15
+Eaftab_divider_datapath
+R0
+R1
+R2
+R3
+R4
+!i122 219
+R5
+Z183 8D:/Desktop/core/CA1/test_m/aftab_divider_datapath.vhd
+Z184 FD:/Desktop/core/CA1/test_m/aftab_divider_datapath.vhd
+l0
+R8
+V4c:?jg7HznlDHO=>ETg:F3
+!s100 KXfHL<onFe@8HT0:aiXID3
+R9
+33
+Z185 !s110 1741876651
+!i10b 1
+Z186 !s108 1741876651.000000
+Z187 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_divider_datapath.vhd|
+Z188 !s107 D:/Desktop/core/CA1/test_m/aftab_divider_datapath.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R146
+R57
+R56
+R1
+R2
+R3
+R4
+R177
+!i122 219
+l81
+L68 92
+VWH8PbfmC4[lf_5OXkCG=`0
+!s100 M^eL?X6oYEA^98j7BAOzJ0
+R9
+33
+R185
+!i10b 1
+R186
+R187
+R188
+!i113 1
+R14
+R15
+Eaftab_full_adder
+R0
+R3
+R4
+!i122 220
+R5
+Z189 8D:/Desktop/core/CA1/test_m/aftab_full_adder.vhd
+Z190 FD:/Desktop/core/CA1/test_m/aftab_full_adder.vhd
+l0
+R8
+VnLz0E:gE`J74Q^D4D0NBo3
+!s100 MRci71DPOEBUiYfT;d1a72
+R9
+33
+R185
+!i10b 1
+R186
+Z191 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_full_adder.vhd|
+Z192 !s107 D:/Desktop/core/CA1/test_m/aftab_full_adder.vhd|
+!i113 1
+R14
+R15
+Agate_level
+R3
+R4
+Z193 DEx4 work 16 aftab_full_adder 0 22 nLz0E:gE`J74Q^D4D0NBo3
+!i122 220
+l50
+L49 5
+VPn14a;la_kXPhOY]9EezI1
+!s100 f2KcSZSb@L;XI[`?3gW<`2
+R9
+33
+R185
+!i10b 1
+R186
+R191
+R192
+!i113 1
+R14
+R15
+Eaftab_half_adder
+R0
+R25
+R3
+R4
+!i122 221
+R5
+Z194 8D:/Desktop/core/CA1/test_m/aftab_half_adder.vhd
+Z195 FD:/Desktop/core/CA1/test_m/aftab_half_adder.vhd
+l0
+R28
+V^l4i?i`?5`ZSVEYn=?;5;2
+!s100 HR;EgG_Rj@J784>45QIVi3
+R9
+33
+R185
+!i10b 1
+R186
+Z196 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_half_adder.vhd|
+Z197 !s107 D:/Desktop/core/CA1/test_m/aftab_half_adder.vhd|
+!i113 1
+R14
+R15
+Artl
+R25
+R3
+R4
+Z198 DEx4 work 16 aftab_half_adder 0 22 ^l4i?i`?5`ZSVEYn=?;5;2
+!i122 221
+l52
+L51 5
+V>UMP;[m90SI>^iV@B>o=i1
+!s100 g?Q[Wc4bD45@H[CNhbB<Z2
+R9
+33
+R185
+!i10b 1
+R186
+R196
+R197
+!i113 1
+R14
+R15
+Eaftab_iccd
+R0
+R25
+R1
+R2
+R3
+R4
+!i122 222
+R5
+Z199 8D:/Desktop/core/CA1/test_m/aftab_iccd.vhd
+Z200 FD:/Desktop/core/CA1/test_m/aftab_iccd.vhd
+l0
+R97
+V4`D^6Uo@fz?Q9_RGi]aHz1
+!s100 bK^R^B@L7R<>gZO4L=8I[3
+R9
+33
+R185
+!i10b 1
+R186
+Z201 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_iccd.vhd|
+Z202 !s107 D:/Desktop/core/CA1/test_m/aftab_iccd.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R25
+R1
+R2
+R3
+R4
+R141
+!i122 222
+l83
+L72 190
+V:9@iSF=Ga>`6R_:87U_RI2
+!s100 H8_EomLAI33M]COjNHEa?2
+R9
+33
+R185
+!i10b 1
+R186
+R201
+R202
+!i113 1
+R14
+R15
+Eaftab_isagu
+R0
+R1
+R2
+R3
+R4
+!i122 223
+R5
+Z203 8D:/Desktop/core/CA1/test_m/aftab_isagu.vhd
+Z204 FD:/Desktop/core/CA1/test_m/aftab_isagu.vhd
+l0
+R21
+V9FWBH1=_nj8GY5Fc6hk782
+!s100 _QY2C2>W^62ZY1Jd<XBKV2
+R9
+33
+R185
+!i10b 1
+R186
+Z205 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_isagu.vhd|
+Z206 !s107 D:/Desktop/core/CA1/test_m/aftab_isagu.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R2
+R3
+R4
+R140
+!i122 223
+l54
+L53 7
+Vo[GEi6hndPGX_>;:hULQP2
+!s100 U?4RQJ?OoKkhEUYG<?6l[3
+R9
+33
+R185
+!i10b 1
+R186
+R205
+R206
+!i113 1
+R14
+R15
+Eaftab_isseu
+R0
+R3
+R4
+!i122 224
+R5
+Z207 8D:/Desktop/core/CA1/test_m/aftab_isseu.vhd
+Z208 FD:/Desktop/core/CA1/test_m/aftab_isseu.vhd
+l0
+R8
+V5H:06[C?[IZ`O9[XaXQUV1
+!s100 z[Y0:OL2a?;=I8SlBeo;90
+R9
+33
+R185
+!i10b 1
+R186
+Z209 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_isseu.vhd|
+Z210 !s107 D:/Desktop/core/CA1/test_m/aftab_isseu.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R3
+R4
+R147
+!i122 224
+l66
+L65 26
+VBf_8:6l3?YCQ6Y4`9RlOU0
+!s100 R`BcF`P0RfX5Y0RH_;FgS0
+R9
+33
+R185
+!i10b 1
+R186
+R209
+R210
+!i113 1
+R14
+R15
+Eaftab_llu
+R0
+R1
+R2
+R3
+R4
+!i122 225
+R5
+Z211 8D:/Desktop/core/CA1/test_m/aftab_llu.vhd
+Z212 FD:/Desktop/core/CA1/test_m/aftab_llu.vhd
+l0
+R21
+VSS`LXIZe2f5o=KMbOhn6k3
+!s100 BL@K:DZ<:@X2kzoHahl971
+R9
+33
+R185
+!i10b 1
+R186
+Z213 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_llu.vhd|
+Z214 !s107 D:/Desktop/core/CA1/test_m/aftab_llu.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R2
+R3
+R4
+R145
+!i122 225
+l53
+L51 13
+V2S;PnTIocXl^Yg=iYlL>k3
+!s100 [M[[o?<ZkTghI;:1K]H3?2
+R9
+33
+R185
+!i10b 1
+R186
+R213
+R214
+!i113 1
+R14
+R15
+Eaftab_memory
+Z215 w1710372443
+Z216 DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
+R25
+R3
+R4
+!i122 236
+R5
+Z217 8D:/Desktop/core/CA1/test_m/aftab_memory.vhd
+Z218 FD:/Desktop/core/CA1/test_m/aftab_memory.vhd
+l0
+L45 1
+VnDF0_iJ`N7mNH_<KP5nBD0
+!s100 e<Lh8L^d<C8LnZ0Je_Rm42
+R9
+33
+Z219 !s110 1741876653
+!i10b 1
+Z220 !s108 1741876653.000000
+Z221 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_memory.vhd|
+Z222 !s107 D:/Desktop/core/CA1/test_m/aftab_memory.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R216
+R25
+R3
+R4
+Z223 DEx4 work 12 aftab_memory 0 22 nDF0_iJ`N7mNH_<KP5nBD0
+!i122 236
+l80
+L65 96
+Vz8@7d9K3NHGDYM7:WUFFD1
+!s100 g`DWEcBSa1Y<9Je3H4W9W1
+R9
+33
+R219
+!i10b 1
+R220
+R221
+R222
+!i113 1
+R14
+R15
+Eaftab_multiplexer
+R0
+R3
+R4
+!i122 226
+R5
+Z224 8D:/Desktop/core/CA1/test_m/aftab_multiplexer.vhd
+Z225 FD:/Desktop/core/CA1/test_m/aftab_multiplexer.vhd
+l0
+R8
+V2YEUQKOBGCf:HBLQP]I6j2
+!s100 H@mBKbTRL3i4U7@BPf<<o3
+R9
+33
+Z226 !s110 1741876652
+!i10b 1
+R186
+Z227 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_multiplexer.vhd|
+Z228 !s107 D:/Desktop/core/CA1/test_m/aftab_multiplexer.vhd|
+!i113 1
+R14
+R15
+Aprocedural
+R3
+R4
+R146
+!i122 226
+l51
+L51 11
+VZ;`V[>cKz@1gB9aTh4Q`@1
+!s100 glY9SXQJ]VeNnT?@77:Bo3
+R9
+33
+R226
+!i10b 1
+R186
+R227
+R228
+!i113 1
+R14
+R15
+Eaftab_one_bit_register
+R0
+R1
+R2
+R3
+R4
+!i122 227
+R5
+Z229 8D:/Desktop/core/CA1/test_m/aftab_one_bit_register.vhd
+Z230 FD:/Desktop/core/CA1/test_m/aftab_one_bit_register.vhd
+l0
+R21
+Vn9;R_g@B@oRVi=PazfO2b0
+!s100 <8k6:Hk_FbhJi?eCV;VfC1
+R9
+33
+R226
+!i10b 1
+Z231 !s108 1741876652.000000
+Z232 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_one_bit_register.vhd|
+Z233 !s107 D:/Desktop/core/CA1/test_m/aftab_one_bit_register.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R2
+R3
+R4
+Z234 DEx4 work 22 aftab_one_bit_register 0 22 n9;R_g@B@oRVi=PazfO2b0
+!i122 227
+l52
+L50 16
+VGbFmk<PH5=7[f[Rd4989:0
+!s100 5b[k7iEz[>bUV9DSojazQ1
+R9
+33
+R226
+!i10b 1
+R231
+R232
+R233
+!i113 1
+R14
+R15
+Eaftab_opt_adder
+R0
+R3
+R4
+!i122 228
+R5
+Z235 8D:/Desktop/core/CA1/test_m/aftab_opt_adder.vhd
+Z236 FD:/Desktop/core/CA1/test_m/aftab_opt_adder.vhd
+l0
+R8
+V36`KA=n6SXlojFV3ke0<;2
+!s100 F`z`TRgf;]bA[b4kTW5A@1
+R9
+33
+R226
+!i10b 1
+R231
+Z237 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_opt_adder.vhd|
+Z238 !s107 D:/Desktop/core/CA1/test_m/aftab_opt_adder.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R25
+R198
+R193
+R3
+R4
+R128
+!i122 228
+l51
+L48 28
+VYQo6Z=ahIMPl^lZKH=AlO2
+!s100 W5HiUC[;3lD8`lA9@Co@Z1
+R9
+33
+R226
+!i10b 1
+R231
+R237
+R238
+!i113 1
+R14
+R15
+Eaftab_register
+R0
+R1
+R2
+R3
+R4
+!i122 229
+R5
+Z239 8D:/Desktop/core/CA1/test_m/aftab_register.vhd
+Z240 FD:/Desktop/core/CA1/test_m/aftab_register.vhd
+l0
+R8
+VQ[WMa<2XgNhKgdfYBKje>3
+!s100 MKZBTOMoiE;Ufb1Fbb:PI0
+R9
+33
+R226
+!i10b 1
+R231
+Z241 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_register.vhd|
+Z242 !s107 D:/Desktop/core/CA1/test_m/aftab_register.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R2
+R3
+R4
+R57
+!i122 229
+l55
+R32
+Vz>FFX4;S7dgK=k[L_YJAg3
+!s100 300>Z@?SSV1ZYn1>k1Wh62
+R9
+33
+R226
+!i10b 1
+R231
+R241
+R242
+!i113 1
+R14
+R15
+Eaftab_register_bank
+R0
+R25
+R3
+R4
+!i122 230
+R5
+Z243 8D:/Desktop/core/CA1/test_m/aftab_register_bank.vhd
+Z244 FD:/Desktop/core/CA1/test_m/aftab_register_bank.vhd
+l0
+R8
+V3=^=8z=P<GGOJOVcX[zlH3
+!s100 UAV[P]]g?[@E1JT`>m4O[1
+R9
+33
+R226
+!i10b 1
+R231
+Z245 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_register_bank.vhd|
+Z246 !s107 D:/Desktop/core/CA1/test_m/aftab_register_bank.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R234
+R57
+R1
+R2
+R88
+R111
+R25
+R3
+R4
+R142
+!i122 230
+l67
+L65 61
+V<aVBZ=nTj]8Jd>MKXATS@1
+!s100 ^=U3[G]jP0jj3;Ffem<<:3
+R9
+33
+R226
+!i10b 1
+R231
+R245
+R246
+!i113 1
+R14
+R15
+Eaftab_register_file
+R0
+R25
+R3
+R4
+!i122 231
+R5
+Z247 8D:/Desktop/core/CA1/test_m/aftab_register_file.vhd
+Z248 FD:/Desktop/core/CA1/test_m/aftab_register_file.vhd
+l0
+R8
+VL6CEAoN4`oQ3@MhjWOZPe0
+!s100 jae_YiERT[6gL_fZ4==>50
+R9
+33
+R226
+!i10b 1
+R231
+Z249 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_register_file.vhd|
+Z250 !s107 D:/Desktop/core/CA1/test_m/aftab_register_file.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R25
+R3
+R4
+R148
+!i122 231
+l64
+L56 29
+V5=m7E=7onRU`<>7HVz]=e1
+!s100 CX=`EDiJV0hn>heBE1aKz2
+R9
+33
+R226
+!i10b 1
+R231
+R249
+R250
+!i113 1
+R14
+R15
+Eaftab_shift_register
+R0
+R1
+R2
+R3
+R4
+!i122 232
+R5
+Z251 8D:/Desktop/core/CA1/test_m/aftab_shift_register.vhd
+Z252 FD:/Desktop/core/CA1/test_m/aftab_shift_register.vhd
+l0
+R21
+VLdTgOR_j[YG?gJHmK0WCW1
+!s100 e0]a:DXldBnee;ghim<b43
+R9
+33
+R226
+!i10b 1
+R231
+Z253 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_shift_register.vhd|
+Z254 !s107 D:/Desktop/core/CA1/test_m/aftab_shift_register.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R2
+R3
+R4
+R56
+!i122 232
+l57
+L56 26
+V;1k<m@JA[:e[nCPC_ETY61
+!s100 ;Oi4Q2Y3MWE0HSO60g45]3
+R9
+33
+R226
+!i10b 1
+R231
+R253
+R254
+!i113 1
+R14
+R15
+Eaftab_su_divider
+R0
+R3
+R4
+!i122 233
+R5
+Z255 8D:/Desktop/core/CA1/test_m/aftab_su_divider.vhd
+Z256 FD:/Desktop/core/CA1/test_m/aftab_su_divider.vhd
+l0
+R40
+VOAlkB5_HV2IYgFz_5^D;:2
+!s100 d3d7LY^P3c^;bPDF91z_?3
+R9
+33
+R226
+!i10b 1
+R231
+Z257 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_su_divider.vhd|
+Z258 !s107 D:/Desktop/core/CA1/test_m/aftab_su_divider.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R178
+R1
+R2
+Z259 DEx4 work 9 aftab_tcl 0 22 5MGCgiUM;7X290_0md@6C0
+R3
+R4
+R16
+!i122 233
+l68
+L57 65
+VAPnmbc=H9gYjjMia;SR5a3
+!s100 NUA9I83TRnT[aCNh]zF:a3
+R9
+33
+R226
+!i10b 1
+R231
+R257
+R258
+!i113 1
+R14
+R15
+Eaftab_sulu
+R0
+R3
+R4
+!i122 234
+R5
+Z260 8D:/Desktop/core/CA1/test_m/aftab_sulu.vhd
+Z261 FD:/Desktop/core/CA1/test_m/aftab_sulu.vhd
+l0
+R8
+VS144Yko2dXRdQm3GIdd_c1
+!s100 aT86MfiG`=R7a4^PmR7i40
+R9
+33
+R219
+!i10b 1
+R231
+Z262 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_sulu.vhd|
+Z263 !s107 D:/Desktop/core/CA1/test_m/aftab_sulu.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R3
+R4
+R143
+!i122 234
+l52
+L51 6
+V3BEc2aQPNd2MZC_dAH3]I1
+!s100 O5cRzF=k4:9@cjiA1abDV3
+R9
+33
+R219
+!i10b 1
+R231
+R262
+R263
+!i113 1
+R14
+R15
+Eaftab_tcl
+R0
+R1
+R2
+R3
+R4
+!i122 235
+R5
+Z264 8D:/Desktop/core/CA1/test_m/aftab_tcl.vhd
+Z265 FD:/Desktop/core/CA1/test_m/aftab_tcl.vhd
+l0
+R21
+V5MGCgiUM;7X290_0md@6C0
+!s100 3o1;Xf9A=Y>H5aOeN^e7S1
+R9
+33
+R219
+!i10b 1
+R220
+Z266 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_tcl.vhd|
+Z267 !s107 D:/Desktop/core/CA1/test_m/aftab_tcl.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R2
+R3
+R4
+R259
+!i122 235
+l52
+L50 7
+VMB[@n_oCJ5;:l9=hEfOeX1
+!s100 kWgmGlJbV;K9_PWW@<ikh3
+R9
+33
+R219
+!i10b 1
+R220
+R266
+R267
+!i113 1
+R14
+R15
+Eaftab_testbench
+Z268 w1667546675
+R3
+R4
+!i122 237
+R5
+Z269 8D:/Desktop/core/CA1/test_m/aftab_testbench.vhd
+Z270 FD:/Desktop/core/CA1/test_m/aftab_testbench.vhd
+l0
+R21
+VD^]c>5Z>BNXL94WC0C5<;2
+!s100 FV66?CDTWSfgB<UQozzDZ0
+R9
+33
+R219
+!i10b 1
+R220
+Z271 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Desktop/core/CA1/test_m/aftab_testbench.vhd|
+Z272 !s107 D:/Desktop/core/CA1/test_m/aftab_testbench.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R216
+R25
+R223
+R73
+R3
+R4
+Z273 DEx4 work 15 aftab_testbench 0 22 D^]c>5Z>BNXL94WC0C5<;2
+!i122 237
+l70
+Z274 L44 87
+Z275 V_;1X3N0f[KQ0;1B;`g]6Z2
+Z276 !s100 CB2QZ1>MUANWD^4m:5[An3
+R9
+33
+R219
+!i10b 1
+R220
+R271
+R272
+!i113 1
+R14
+R15

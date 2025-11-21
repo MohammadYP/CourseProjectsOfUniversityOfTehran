@@ -1,0 +1,20 @@
+* "simulator" "HSPICE" 
+* "version" "P-2019.06-SP1-1 win64"
+* "format" "HSP"
+* "rundate" "13:36:07 12/31/2024 "
+* "netlist" "aoi21.sp "
+* "runtitle" "aoi21 4-bit"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a =   1.0000        
++ b =   1.0000        
++ c =   0.            
++ vout =  84.3966u       
++ x1.vd =   1.0000        
++ x1.x1 =  44.0167u       
++ x1.x2 = 283.0705m       
+***   END: Saved Operating Point ***                     

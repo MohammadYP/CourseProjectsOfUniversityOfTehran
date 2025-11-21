@@ -1,0 +1,20 @@
+* "simulator" "HSPICE" 
+* "version" "P-2019.06-SP1-1 win64"
+* "format" "HSP"
+* "rundate" "22:55:14 12/05/2024 "
+* "netlist" "static.sp "
+* "runtitle" "q1"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a =   0.            
++ b =   1.0000        
++ c =   1.0000        
++ vout = 419.5041u       
++ x1.vd =   1.0000        
++ x1.x1 = 211.5550u       
++ x1.x2 = 999.7294m       
+***   END: Saved Operating Point ***                     

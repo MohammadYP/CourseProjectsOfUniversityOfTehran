@@ -1,0 +1,27 @@
+* "simulator" "HSPICE" 
+* "version" "P-2019.06-SP1-1 win64"
+* "format" "HSP"
+* "rundate" "23:07:14 12/05/2024 "
+* "netlist" "dcvsl.sp "
+* "runtitle" "q1 dcvsl"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a =   0.            
++ b =   1.0000        
++ c =   1.0000        
++ vout = 138.8597u       
++ vout_b = 999.6069m       
++ x1.a_b = 999.8713m       
++ x1.b_b = 143.3975u       
++ x1.c_b = 142.0149u       
++ x1.vd =   1.0000        
++ x1.x1 =  71.2467u       
++ x1.x2 =  68.3008u       
++ x1.xa.vd =   1.0000        
++ x1.xb.vd =   1.0000        
++ x1.xc.vd =   1.0000        
+***   END: Saved Operating Point ***                     

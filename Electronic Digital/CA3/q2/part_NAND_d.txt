@@ -1,0 +1,25 @@
+; specifies # of bits associated with each vector
+radix 1 1 1 1 1
+;********************************************************
+; defines name for each vector. For multi-bit vectors,
+; innermost [] provide the bit index range, MSB:LSB
+vname A B C clk Vout
+;********************************************************
+; defines vector as input, output, or bi-directional
+io i i i i o
+; defines time unit
+tunit ns
+slope 0.05
+PERIOD 1
+ODELAY 0.75
+;********************************************************
+vih 1    1   1   1   1   0
+vil 0    1   1   1   1   0
+voh 0.7 0   0   0   0   1
+vol 0.3 0   0   0   0   1
+; tabular data section
+1 1 1 0 1
+1 1 1 1 0
+
+0 0 0 0 1
+0 1 1 1 1

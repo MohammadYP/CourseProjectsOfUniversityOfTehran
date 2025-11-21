@@ -1,0 +1,12 @@
+1-	https://github.com/riscv-collab/riscv-gnu-toolchain
+
+2-	git clone --recursive https://github.com/riscv/riscv-gnu-toolchain
+	sudo apt-get install autoconf automake autotools-dev curl python3 libmpc-dev libmpfr-dev libgmp-dev gawk build-essential bison flex texinfo gperf libtool patchutils bc zlib1g-dev libexpat-dev
+	cd /opt
+	mkdir riscv
+	cd /mnt/d/University/Tools
+	cd riscv-gnu-toolchain
+	./configure --prefix=/opt/riscv --with-arch=rv32im --with-abi=ilp32
+	sudo make
+	export PATH=/opt/riscv/bin/:$PATH
+	riscv32-unknown-elf-gcc -g tst.c -o tst

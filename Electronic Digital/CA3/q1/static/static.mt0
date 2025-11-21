@@ -1,0 +1,7 @@
+$DATA1 SOURCE='HSPICE' VERSION='P-2019.06-SP1-1 win64' PARAM_COUNT=0
+.TITLE 'q1'
+ td_lh            td_hl            avgpower_hight   avgpower_low    
+ avgpower_dynamic_hight avgpower_dynamic_low temper          
+ alter#          
+  1.282e-11        1.244e-11        1.017e-08        3.010e-08      
+  1.880e-06        2.319e-06         25.0000        1               

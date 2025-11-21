@@ -1,0 +1,61 @@
+* "simulator" "HSPICE" 
+* "version" "P-2019.06-SP1-1 win64"
+* "format" "HSP"
+* "rundate" "23:24:54 01/01/2025 "
+* "netlist" "system.sp "
+* "runtitle" "system"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a_in =   0.            
++ a_out =  19.2377m       
++ b_in =   0.            
++ b_out =  19.2404m       
++ c_in =   0.            
++ c_out =  19.2389m       
++ clk =   0.            
++ v_in = 999.8665m       
++ v_out = 998.0150m       
++ x0.clk_b = 999.8802m       
++ x0.w1 =   2.5987u       
++ x0.w2 = 999.8829m       
++ x0.w3 = 737.1385m       
++ x1.clk_b = 999.8802m       
++ x1.w1 =   2.5987u       
++ x1.w2 = 999.8829m       
++ x1.w3 = 737.1388m       
++ x2.clk_b = 999.8802m       
++ x2.w1 =   2.5987u       
++ x2.w2 = 999.8829m       
++ x2.w3 = 737.1383m       
++ x3.vd =   1.0000        
++ x3.x1 = 136.2724m       
++ x3.x2 = 999.9555m       
++ x4.clk_b = 999.8863m       
++ x4.w1 = 999.8603m       
++ x4.w2 = 142.0409u       
++ x4.w3 = 127.5075m       
++ x0.x1.vd =   1.0000        
++ x0.x2.vd =   1.0000        
++ x0.x3.vd =   1.0000        
++ x0.x4.vd =   1.0000        
++ x1.x1.vd =   1.0000        
++ x1.x2.vd =   1.0000        
++ x1.x3.vd =   1.0000        
++ x1.x4.vd =   1.0000        
++ x2.x1.vd =   1.0000        
++ x2.x2.vd =   1.0000        
++ x2.x3.vd =   1.0000        
++ x2.x4.vd =   1.0000        
++ x4.x1.vd =   1.0000        
++ x4.x2.vd =   1.0000        
++ x4.x3.vd =   1.0000        
++ x4.x4.vd =   1.0000        
++ x0.x0.x1.vd =   1.0000        
++ x1.x0.x1.vd =   1.0000        
++ x2.x0.x1.vd =   1.0000        
++ x4.x0.x1.vd =   1.0000        
+***   END: Saved Operating Point ***                     

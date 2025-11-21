@@ -1,0 +1,25 @@
+* "simulator" "HSPICE" 
+* "version" "P-2019.06-SP1-1 win64"
+* "format" "HSP"
+* "rundate" "21:55:21 12/05/2024 "
+* "netlist" "Nand.sp "
+* "runtitle" "q2- nand 3 input"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ & =   1.0000        
++ a =   1.0000        
++ b =   1.0000        
++ c =   1.0000        
++ clk =   0.            
++ vout = 999.9420m       
++ x1.vd =   1.0000        
++ x1.vout_b = 141.2964u       
++ x1.x1 = 679.2468m       
++ x1.x2 = 699.0833m       
++ x1.x3 = 745.7423m       
++ x1.x1.vd =   1.0000        
+***   END: Saved Operating Point ***                     

@@ -1,0 +1,10 @@
+$DATA1 SOURCE='HSPICE' VERSION='P-2019.06-SP1-1 win64' PARAM_COUNT=0
+.TITLE 'cla 4-bit'
+ td_tb1_cout      td_tb1_s4        td_tb1_s3        td_tb1_s2       
+ td_tb1_s1        td_tb2_s4        td_tb3_s4        td_tb4_cout     
+ td_tb4_s4        td_tb4_s3        td_tb4_s2        td_tb4_s1       
+ avgpower         temper           alter#          
+  2.049e-10        2.204e-10        1.665e-10        1.130e-10      
+  1.154e-10        1.178e-10        2.062e-10        1.526e-10      
+  1.676e-10        1.138e-10        1.138e-10        1.104e-10      
+  1.823e-04         25.0000        1               

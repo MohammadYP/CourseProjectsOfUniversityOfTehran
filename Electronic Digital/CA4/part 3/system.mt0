@@ -1,0 +1,6 @@
+$DATA1 SOURCE='HSPICE' VERSION='P-2019.06-SP1-1 win64' PARAM_COUNT=0
+.TITLE 'system'
+ td_setup_time    td_clk-q         td_rise_time     td_fall_time    
+ temper           alter#          
+    failed           failed           failed           failed       
+   25.0000        1               

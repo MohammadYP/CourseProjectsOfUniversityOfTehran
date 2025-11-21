@@ -1,0 +1,4 @@
+$DATA1 SOURCE='HSPICE' VERSION='P-2019.06-SP1-1 win64' PARAM_COUNT=0
+.TITLE 'aoi21 4-bit'
+ td_zero_to_one   td_one_to_zero   temper           alter#          
+  9.723e-12        6.188e-12         25.0000        1               

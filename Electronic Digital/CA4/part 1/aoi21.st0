@@ -1,0 +1,55 @@
+****** HSPICE -- P-2019.06-SP1-1 win64 (Sep 27 2019) ******
+Input File: aoi21.sp
+lic:
+lic: FLEXlm: SDK_12.3
+lic: USER:   moham                HOSTNAME: Valeria
+lic: HOSTID: "f20af673b493"       PID:      12596
+lic: Using FLEXlm license file:
+lic: 27000@Valeria
+lic: Checkout 1 hspice
+lic: License/Maintenance for hspice will expire on 30-dec-2030/2020.12
+lic: 1(in_use)/99(total) FLOATING license(s) on SERVER 27000@Valeria
+lic:
+
+ init: begin read circuit files, cpu clock= 3.43E+00
+       option search = C:/synopsys/Hspice_P-2019.06-SP1-1/parts/behave/
+       option search = C:/synopsys/Hspice_P-2019.06-SP1-1/parts/AD/
+       option search = C:/synopsys/Hspice_P-2019.06-SP1-1/parts/XILINX/
+       option search = C:/synopsys/Hspice_P-2019.06-SP1-1/parts/TLINE/
+       option search = C:/synopsys/Hspice_P-2019.06-SP1-1/parts/TI/
+       option search = C:/synopsys/Hspice_P-2019.06-SP1-1/parts/SIGNET/
+       option search = C:/synopsys/Hspice_P-2019.06-SP1-1/parts/PCI/
+       option search = C:/synopsys/Hspice_P-2019.06-SP1-1/parts/LIN_TEC
+                         H/
+       option search = C:/synopsys/Hspice_P-2019.06-SP1-1/parts/PET/
+       option search = C:/synopsys/Hspice_P-2019.06-SP1-1/parts/DI0/
+       option search = C:/synopsys/Hspice_P-2019.06-SP1-1/parts/COMLINE
+                         /
+       option search = C:/synopsys/Hspice_P-2019.06-SP1-1/parts/BURR_BR
+                         M/
+       option search = C:/synopsys/Hspice_P-2019.06-SP1-1/parts/BJT/
+       option post =     2.00
+ init: end read circuit files, cpu clock= 3.43E+00 peak memory=      63 mb
+ init: begin check errors, cpu clock= 3.43E+00
+ init: end check errors, cpu clock= 3.44E+00 peak memory=      63 mb
+ init: begin setup matrix, pivot=     0 cpu clock= 3.44E+00
+       establish matrix -- done, cpu clock= 3.44E+00 peak memory=      63 mb
+       re-order matrix -- done, cpu clock= 3.44E+00 peak memory=      63 mb
+ init: end setup matrix, cpu clock= 3.44E+00 peak memory=      63 mb
+ dcop: begin dcop, cpu clock= 3.45E+00
+ dcop: end dcop, cpu clock= 3.45E+00 peak memory=      63 mb tot_iter=      13
+ output: D:\Desktop\Electronic Digital\CA4\part 1\aoi21.mt0
+ sweep: tran tran0    begin, stop_t=  5.00E-09 #sweeps=5001 cpu clock= 3.45E+00
+ tran: time= 6.5307E-10 tot_iter=      14 conv_iter=       7 cpu clock= 3.45E+00
+ tran: time= 1.0000E-09 tot_iter=      18 conv_iter=       9 cpu clock= 3.45E+00
+ tran: time= 1.5666E-09 tot_iter=      87 conv_iter=      35 cpu clock= 3.45E+00
+ tran: time= 2.0000E-09 tot_iter=      99 conv_iter=      41 cpu clock= 3.45E+00
+ tran: time= 2.5588E-09 tot_iter=     168 conv_iter=      67 cpu clock= 3.45E+00
+ tran: time= 3.0000E-09 tot_iter=     172 conv_iter=      69 cpu clock= 3.45E+00
+ tran: time= 3.6177E-09 tot_iter=     178 conv_iter=      72 cpu clock= 3.45E+00
+ tran: time= 4.1177E-09 tot_iter=     182 conv_iter=      74 cpu clock= 3.45E+00
+ tran: time= 4.6177E-09 tot_iter=     186 conv_iter=      76 cpu clock= 3.45E+00
+ tran: time= 5.0000E-09 tot_iter=     190 conv_iter=      78 cpu clock= 3.45E+00
+ sweep: tran tran0    end, cpu clock= 3.45E+00 peak memory=      63 mb
+>info:         ***** hspice job concluded
+ lic: Release hspice token(s)

@@ -1,0 +1,1539 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Desktop/core/CA2/Part B/simulation
+vaftab_AAU
+Z0 !s110 1747839127
+!i10b 1
+!s100 A4Q1<7cBG1DKHG8R[KzL41
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I?M`TY74D_M1E`bhCPKV]`3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Desktop/core/CA2/Part C/simulation
+Z4 w1685231332
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_AAU.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_AAU.v
+!i122 966
+L0 18 75
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1747839127.000000
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_AAU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_AAU.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+naftab_@a@a@u
+vaftab_AAU_TB
+Z9 !s110 1747832088
+!i10b 1
+!s100 3PT3A<NPYJCc2^DoXT>L52
+R1
+Ikl4noGo`?9]kIEo0BcHBA2
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_AAU_TB.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_AAU_TB.v
+!i122 22
+Z10 L0 18 66
+R5
+r1
+!s85 0
+31
+Z11 !s108 1747832088.000000
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_AAU_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_AAU_TB.v|
+!i113 1
+R7
+R8
+naftab_@a@a@u_@t@b
+vaftab_adder
+Z12 !s110 1747839124
+!i10b 1
+!s100 ZC2^al2R6^ZIR;TK0YfQ30
+R1
+IKI=AJSQR`EIFeX0PIPNdd2
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_adder.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_adder.v
+!i122 948
+Z13 L0 18 11
+R5
+r1
+!s85 0
+31
+Z14 !s108 1747839124.000000
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_adder.v|
+!i113 1
+R7
+R8
+vaftab_adder_subtractor
+Z15 !s110 1747839130
+!i10b 1
+!s100 Gcm_]ZoQ:PM_Y6HP`fT0M1
+R1
+Ij<iz<13boz_K=[Cd@Y5Ge1
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_adder_subtractor.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_adder_subtractor.v
+!i122 986
+Z16 L0 18 25
+R5
+r1
+!s85 0
+31
+Z17 !s108 1747839130.000000
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_adder_subtractor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_adder_subtractor.v|
+!i113 1
+R7
+R8
+vaftab_booth_controller
+Z18 !s110 1747839126
+!i10b 1
+!s100 eamRMH?PcFEmeoi1`T5fI0
+R1
+I7zXF8L?EC?VdBN>6geDMK1
+R2
+R3
+w1685973920
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_booth_multiplier/aftab_booth_controller.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_booth_multiplier/aftab_booth_controller.v
+!i122 959
+L0 27 89
+R5
+r1
+!s85 0
+31
+Z19 !s108 1747839125.000000
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_booth_multiplier/aftab_booth_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_booth_multiplier/aftab_booth_controller.v|
+!i113 1
+R7
+R8
+vaftab_booth_datapath
+R18
+!i10b 1
+!s100 JbE9H<lN>z?D9OionRJ2U0
+R1
+Iz;2BiIoHMNf:GD:>T2V@62
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_booth_multiplier/aftab_booth_datapath.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_booth_multiplier/aftab_booth_datapath.v
+!i122 960
+Z20 L0 18 74
+R5
+r1
+!s85 0
+31
+Z21 !s108 1747839126.000000
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_booth_multiplier/aftab_booth_datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_booth_multiplier/aftab_booth_datapath.v|
+!i113 1
+R7
+R8
+vaftab_booth_multiplier
+R18
+!i10b 1
+!s100 5d9?dVi>FK:J0JU6[bHQ>2
+R1
+I5BcPOkF1FcJ[]0bzAk=T@3
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_booth_multiplier/aftab_booth_multiplier.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_booth_multiplier/aftab_booth_multiplier.v
+!i122 961
+L0 18 51
+R5
+r1
+!s85 0
+31
+R21
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_booth_multiplier/aftab_booth_multiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_booth_multiplier/aftab_booth_multiplier.v|
+!i113 1
+R7
+R8
+vaftab_boothTB
+!s110 1747832087
+!i10b 1
+!s100 IlI:;>L_>Q5lJOnef[[6a3
+R1
+IiLBml[43@WCHVNj3mVLI52
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_booth_multiplier/aftab_boothTB.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_booth_multiplier/aftab_boothTB.v
+!i122 14
+L0 18 36
+R5
+r1
+!s85 0
+31
+!s108 1747832087.000000
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_booth_multiplier/aftab_boothTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_booth_multiplier/aftab_boothTB.v|
+!i113 1
+R7
+R8
+naftab_booth@t@b
+vaftab_BSU
+R15
+!i10b 1
+!s100 f^mA>Fo?No2m>TNWcgY9B3
+R1
+I`Bh><eBDJOMa=ocnA<hb;0
+R2
+R3
+R4
+Z22 8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_BSU.v
+Z23 FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_BSU.v
+!i122 987
+R16
+R5
+r1
+!s85 0
+31
+R17
+Z24 !s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_BSU.v|
+Z25 !s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_BSU.v|
+!i113 1
+R7
+R8
+naftab_@b@s@u
+vaftab_BSU_TB
+!s110 1747832090
+!i10b 1
+!s100 U_Y4Y0@YO<8gg28m[^7G_1
+R1
+I^SFBU:oXELFW=IAb9Q6f^0
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_BSU_TB.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_BSU_TB.v
+!i122 46
+R16
+R5
+r1
+!s85 0
+31
+!s108 1747832090.000000
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_BSU_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_BSU_TB.v|
+!i113 1
+R7
+R8
+naftab_@b@s@u_@t@b
+vaftab_check_non_existing
+Z26 !s110 1747839128
+!i10b 1
+!s100 m>X4GE?;efU^1g?K=oJo30
+R1
+IKY_IFS?zT]djDaIl__49k1
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_check_non_existing.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_check_non_existing.v
+!i122 975
+L0 18 19
+R5
+r1
+!s85 0
+31
+Z27 !s108 1747839128.000000
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_check_non_existing.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_check_non_existing.v|
+!i113 1
+R7
+R8
+vaftab_comparator
+R15
+!i10b 1
+!s100 L<N?^hAjRZdB9?6d5`UXL1
+R1
+INDG4?4[]7Vb_`^9_PLAU30
+R2
+R3
+w1686458904
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_comparator.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_comparator.v
+!i122 988
+L0 18 43
+R5
+r1
+!s85 0
+31
+R17
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_comparator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_comparator.v|
+!i113 1
+R7
+R8
+vaftab_controller
+Z28 !s110 1747839132
+!i10b 1
+!s100 cN0?iEGchbI^^9B4W]:[;0
+R1
+Ie_Q[@3?gEQ]6@TV_znHfE0
+R2
+R3
+w1685411140
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_controller.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_controller.v
+!i122 996
+L0 93 1008
+R5
+r1
+!s85 0
+31
+Z29 !s108 1747839132.000000
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_controller.v|
+!i113 1
+R7
+R8
+vaftab_core
+R28
+!i10b 1
+!s100 3X=U`MD^9zE0CCM5Fkjm00
+R1
+Ig1ALmgY<LLO^d3]ZKFWUg3
+R2
+R3
+w1685410600
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_core.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_core.v
+!i122 997
+L0 18 425
+R5
+r1
+!s85 0
+31
+R29
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_core.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_core.v|
+!i113 1
+R7
+R8
+vaftab_counter
+R12
+!i10b 1
+!s100 EIfZlDPOcj20FE:0oQA7m2
+R1
+I^7Za8T<iod=`;7WT5aiPc2
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_counter.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_counter.v
+!i122 949
+Z30 L0 18 27
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_counter.v|
+!i113 1
+R7
+R8
+vaftab_CSR_address_ctrl
+R26
+!i10b 1
+!s100 >W4<<HCLLhYiEN6^fzlFb2
+R1
+IVX2cjQF;_LDfno@CbKa6]1
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSR_address_ctrl.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSR_address_ctrl.v
+!i122 976
+R30
+R5
+r1
+!s85 0
+31
+R27
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSR_address_ctrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSR_address_ctrl.v|
+!i113 1
+R7
+R8
+naftab_@c@s@r_address_ctrl
+vaftab_CSR_address_logic
+Z31 !s110 1747839129
+!i10b 1
+!s100 LL2h@zNmBK=2D_0gilK2m0
+R1
+IYRGVVN^LdD=^Ej=RbPR3d1
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSR_address_logic.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSR_address_logic.v
+!i122 977
+Z32 L0 18 23
+R5
+r1
+!s85 0
+31
+R27
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSR_address_logic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSR_address_logic.v|
+!i113 1
+R7
+R8
+naftab_@c@s@r_address_logic
+vaftab_CSR_addressing_decoder
+R31
+!i10b 1
+!s100 _N4@=;De@fDHWHHM;6=@N3
+R1
+I8ZPaSi]j7BamEkoDR_I_d2
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSR_addressing_decoder.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSR_addressing_decoder.v
+!i122 978
+R32
+R5
+r1
+!s85 0
+31
+Z33 !s108 1747839129.000000
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSR_addressing_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSR_addressing_decoder.v|
+!i113 1
+R7
+R8
+naftab_@c@s@r_addressing_decoder
+vaftab_CSR_counter
+R31
+!i10b 1
+!s100 e=O;VIJ`jdMzCRPZK`l0A3
+R1
+I:a;4_o@XgX`@d5QR_gU1H1
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSR_counter.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSR_counter.v
+!i122 979
+Z34 L0 18 34
+R5
+r1
+!s85 0
+31
+R33
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSR_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSR_counter.v|
+!i113 1
+R7
+R8
+naftab_@c@s@r_counter
+vaftab_CSR_registers
+R31
+!i10b 1
+!s100 zL`Zmldf7k;:8iVn09:dn1
+R1
+IA>853L?n_<<X?R6B=4h8L3
+R2
+R3
+w1685957148
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSR_registers.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSR_registers.v
+!i122 980
+L0 18 31
+R5
+r1
+!s85 0
+31
+R33
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSR_registers.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSR_registers.v|
+!i113 1
+R7
+R8
+naftab_@c@s@r_registers
+vaftab_CSRISL
+R31
+!i10b 1
+!s100 7STY^6kbhe:mLjGU=9g_@0
+R1
+IW4zV:CW1M<bWaY2zm@k:n3
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSRISL.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSRISL.v
+!i122 981
+Z35 L0 18 63
+R5
+r1
+!s85 0
+31
+R33
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSRISL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_CSRISL.v|
+!i113 1
+R7
+R8
+naftab_@c@s@r@i@s@l
+vaftab_DARU_controller
+R0
+!i10b 1
+!s100 1XE8BT<jFDXNQnP[CkBZJ0
+R1
+I4?<o=]M8aN^7M_SjzimVE3
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_daru/aftab_DARU_controller.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_daru/aftab_DARU_controller.v
+!i122 967
+L0 22 52
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_daru/aftab_DARU_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_daru/aftab_DARU_controller.v|
+!i113 1
+R7
+R8
+naftab_@d@a@r@u_controller
+vaftab_DARU_datapath
+R0
+!i10b 1
+!s100 :O@XDYgc<>`@MAPL`ERK23
+R1
+IkN0K6z^z[K1i]7IEMDW`N0
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_daru/aftab_DARU_datapath.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_daru/aftab_DARU_datapath.v
+!i122 968
+L0 18 104
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_daru/aftab_DARU_datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_daru/aftab_DARU_datapath.v|
+!i113 1
+R7
+R8
+naftab_@d@a@r@u_datapath
+vaftab_DARU_errorDetector
+R0
+!i10b 1
+!s100 P3<:GF:]hNg[QXB<[A<nV0
+R1
+IS]mKdMe<Cj:47kW`De1cB0
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_daru/aftab_DARU_errorDetector.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_daru/aftab_DARU_errorDetector.v
+!i122 969
+R30
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_daru/aftab_DARU_errorDetector.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_daru/aftab_DARU_errorDetector.v|
+!i113 1
+R7
+R8
+naftab_@d@a@r@u_error@detector
+vaftab_DARU_TB
+R9
+!i10b 1
+!s100 oWS[?QkZ98N:;:Q[laK[;0
+R1
+IBn_M>>Fg@fhz;EhUEZ`]J2
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_daru/aftab_DARU_TB.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_daru/aftab_DARU_TB.v
+!i122 26
+R35
+R5
+r1
+!s85 0
+31
+R11
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_daru/aftab_DARU_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_daru/aftab_DARU_TB.v|
+!i113 1
+R7
+R8
+naftab_@d@a@r@u_@t@b
+vaftab_datapath
+R28
+!i10b 1
+!s100 a8eGX]oJ_SBQZl6_BDEKW1
+R1
+ID`<a6eTk9RRBCi?jjNicI2
+R2
+R3
+w1685957136
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_datapath.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_datapath.v
+!i122 998
+L0 18 655
+R5
+r1
+!s85 0
+31
+R29
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_datapath.v|
+!i113 1
+R7
+R8
+vaftab_DAWU_controller
+R26
+!i10b 1
+!s100 U8JD:_V9modgnalYG70?>3
+R1
+II=cT45TJ<3[DRDlW>WhMC1
+R2
+R3
+w1685408724
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_dawu/aftab_DAWU_controller.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_dawu/aftab_DAWU_controller.v
+!i122 971
+L0 21 61
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_dawu/aftab_DAWU_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_dawu/aftab_DAWU_controller.v|
+!i113 1
+R7
+R8
+naftab_@d@a@w@u_controller
+vaftab_DAWU_datapath
+R26
+!i10b 1
+!s100 e]8=C3]ZLmO4z_L=QkIlP0
+R1
+IYoJz6c`YbAGJ^YNl14VR01
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_dawu/aftab_DAWU_datapath.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_dawu/aftab_DAWU_datapath.v
+!i122 972
+L0 18 125
+R5
+r1
+!s85 0
+31
+R27
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_dawu/aftab_DAWU_datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_dawu/aftab_DAWU_datapath.v|
+!i113 1
+R7
+R8
+naftab_@d@a@w@u_datapath
+vaftab_DAWU_errorDetector
+R26
+!i10b 1
+!s100 =3c;35@7BYc_dcGiVBbCG1
+R1
+ITaPHO1bAaYJB?<T?dXH]32
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_dawu/aftab_DAWU_errorDetector.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_dawu/aftab_DAWU_errorDetector.v
+!i122 973
+L0 18 18
+R5
+r1
+!s85 0
+31
+R27
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_dawu/aftab_DAWU_errorDetector.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_dawu/aftab_DAWU_errorDetector.v|
+!i113 1
+R7
+R8
+naftab_@d@a@w@u_error@detector
+vaftab_DAWU_TB
+!s110 1747832089
+!i10b 1
+!s100 7;4HXWLSXzOY?zRDPVBj<1
+R1
+ICcJ2FLGSaC1n98[IIjnZ53
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_dawu/aftab_DAWU_TB.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_dawu/aftab_DAWU_TB.v
+!i122 31
+Z36 L0 18 54
+R5
+r1
+!s85 0
+31
+!s108 1747832089.000000
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_dawu/aftab_DAWU_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_dawu/aftab_DAWU_TB.v|
+!i113 1
+R7
+R8
+naftab_@d@a@w@u_@t@b
+vaftab_decoder2to4
+R12
+!i10b 1
+!s100 i^_b:QCa_c2Q3ETc4Did71
+R1
+I@jGYgalae2[QCliBk4DF92
+R2
+R3
+w1686066220
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_decoder2to4.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_decoder2to4.v
+!i122 950
+Z37 L0 18 14
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_decoder2to4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_decoder2to4.v|
+!i113 1
+R7
+R8
+vaftab_divider
+R18
+!i10b 1
+!s100 9h@HI4:BEK3bQR6J[nDR80
+R1
+IeS1EIQ?00IG^RF]_=@P780
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_divider.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_divider.v
+!i122 962
+R10
+R5
+r1
+!s85 0
+31
+R21
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_divider.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_divider.v|
+!i113 1
+R7
+R8
+vaftab_divider_controller
+R18
+!i10b 1
+!s100 7kCon@O[G3j20DSRL?A^a3
+R1
+IL7S0hT;9nfUN5B9M`M`U<1
+R2
+R3
+w1685409084
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_divider_controller.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_divider_controller.v
+!i122 963
+L0 24 74
+R5
+r1
+!s85 0
+31
+R21
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_divider_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_divider_controller.v|
+!i113 1
+R7
+R8
+vaftab_divider_datapath
+R18
+!i10b 1
+!s100 A1@Y@OJAAYok2<Q8Ba3NM2
+R1
+I`6zQ4b37e@:JlB?EPi@VD2
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_divider_datapath.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_divider_datapath.v
+!i122 964
+L0 18 103
+R5
+r1
+!s85 0
+31
+R21
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_divider_datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_divider_datapath.v|
+!i113 1
+R7
+R8
+vaftab_divider_TB
+R9
+!i10b 1
+!s100 gbnG`;1P=fc[P[8hUX2Se1
+R1
+I]1DCPB8ISfCNO987U;KMN1
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_divider_TB.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_divider_TB.v
+!i122 18
+R16
+R5
+r1
+!s85 0
+31
+R11
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_divider_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_divider_TB.v|
+!i113 1
+R7
+R8
+naftab_divider_@t@b
+vaftab_ICCD
+R31
+!i10b 1
+!s100 8EH`ScE=d9=JFC00;54BP3
+R1
+I:<GIYU3CQkTIbe1Sal`E=1
+R2
+R3
+w1685413520
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_ICCD.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_ICCD.v
+!i122 982
+L0 18 228
+R5
+r1
+!s85 0
+31
+R33
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_ICCD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_ICCD.v|
+!i113 1
+R7
+R8
+naftab_@i@c@c@d
+vaftab_immSelSignExt
+Z38 !s110 1747839131
+!i10b 1
+!s100 KQ3MJS5_<N6@K^8?BS3A]2
+R1
+IO^Y_^L[_eP2^6bSM45BZ10
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_immSelSignExt.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_immSelSignExt.v
+!i122 989
+R36
+R5
+r1
+!s85 0
+31
+R17
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_immSelSignExt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_immSelSignExt.v|
+!i113 1
+R7
+R8
+naftab_imm@sel@sign@ext
+vaftab_isagu
+R15
+!i10b 1
+!s100 ^hm2PJfFiIWE0n_;E[Ke11
+R1
+I8I`P9NRS7HB]D>Wm]?eSo2
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_isagu.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_isagu.v
+!i122 983
+R37
+R5
+r1
+!s85 0
+31
+R33
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_isagu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_isagu.v|
+!i113 1
+R7
+R8
+vaftab_LLU
+R38
+!i10b 1
+!s100 h1FEIo60XMcbNMId4bP9R2
+R1
+IYUJJ6B4S1@He08V?fbSO92
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_LLU.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_LLU.v
+!i122 990
+Z39 L0 18 13
+R5
+r1
+!s85 0
+31
+Z40 !s108 1747839131.000000
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_LLU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_LLU.v|
+!i113 1
+R7
+R8
+naftab_@l@l@u
+vaftab_MEM_DARU
+R0
+!i10b 1
+!s100 fB>C7aGWDj]MjCkTZK9jP2
+R1
+I6Jc3PfYgUYE7kYiB<C_JZ3
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_daru/aftab_MEM_DARU.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_daru/aftab_MEM_DARU.v
+!i122 970
+L0 18 82
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_daru/aftab_MEM_DARU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_daru/aftab_MEM_DARU.v|
+!i113 1
+R7
+R8
+naftab_@m@e@m_@d@a@r@u
+vaftab_MEM_DAWU
+R26
+!i10b 1
+!s100 Dh]V<;zIgH5o25MhiHXml1
+R1
+IGf=XA7L8ODkS8K5ViVF]G1
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_dawu/aftab_MEM_DAWU.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_dawu/aftab_MEM_DAWU.v
+!i122 974
+Z41 L0 18 76
+R5
+r1
+!s85 0
+31
+R27
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_dawu/aftab_MEM_DAWU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_dawu/aftab_MEM_DAWU.v|
+!i113 1
+R7
+R8
+naftab_@m@e@m_@d@a@w@u
+vaftab_memory_model
+R28
+!i10b 1
+!s100 j0A:h2AKX7SRhc`[7G^@n0
+R1
+Id4SFafMQ`ckhb0?H:l_H>2
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_memory_model.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_memory_model.v
+!i122 999
+L0 18 62
+R5
+r1
+!s85 0
+31
+R29
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_memory_model.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_memory_model.v|
+!i113 1
+R7
+R8
+vaftab_memory_segment
+R28
+!i10b 1
+!s100 APN0UNhe<6f3ODVLciR5M2
+R1
+IYV^`nAUdLc22UbfoVd3[H3
+R2
+R3
+w1686465286
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_memory_segment.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_memory_segment.v
+!i122 1000
+R41
+R5
+r1
+!s85 0
+31
+R29
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_memory_segment.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_memory_segment.v|
+!i113 1
+R7
+R8
+vaftab_mux2to1
+R12
+!i10b 1
+!s100 fS>50jgj<3nG9hB`B@[?E1
+R1
+IHTe]TdQz@9GhK5:ZVh@X90
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_mux2to1.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_mux2to1.v
+!i122 951
+R13
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_mux2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_mux2to1.v|
+!i113 1
+R7
+R8
+vaftab_mux2to1_2sel
+Z42 !s110 1747839125
+!i10b 1
+!s100 @k19UcHJjS7E]<<niI[gM1
+R1
+I0]OghFokzHDWmZlLKZWWc1
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_mux2to1_2sel.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_mux2to1_2sel.v
+!i122 952
+R39
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_mux2to1_2sel.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_mux2to1_2sel.v|
+!i113 1
+R7
+R8
+vaftab_mux4to1
+R42
+!i10b 1
+!s100 a<IoZzD4kn6K@ge`PCOc80
+R1
+I1Ezm2MXG[nZK_Q7CIXVJF3
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_mux4to1.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_mux4to1.v
+!i122 953
+R37
+R5
+r1
+!s85 0
+31
+R19
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_mux4to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_mux4to1.v|
+!i113 1
+R7
+R8
+vaftab_oneBitReg
+R15
+!i10b 1
+!s100 <b_@M6J?1?`>HH<]3boB42
+R1
+IE9V9jNb5KK=XB@gAjJT;>0
+R2
+R3
+w1685413926
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_oneBitReg.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_oneBitReg.v
+!i122 984
+L0 18 24
+R5
+r1
+!s85 0
+31
+R17
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_oneBitReg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_oneBitReg.v|
+!i113 1
+R7
+R8
+naftab_one@bit@reg
+vaftab_opt_adder
+R42
+!i10b 1
+!s100 CAHWQOblzPB00]9X1Boh11
+R1
+IeiWhX6^SYMnle1D9GAXQY0
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_opt_adder.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_opt_adder.v
+!i122 954
+L0 18 40
+R5
+r1
+!s85 0
+31
+R19
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_opt_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_opt_adder.v|
+!i113 1
+R7
+R8
+vaftab_register
+R42
+!i10b 1
+!s100 =e4cHQ:8Oh^[iFYKU4>l_2
+R1
+I8G:9O;@mH@>RbO?o9:ChL0
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_register.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_register.v
+!i122 955
+L0 18 22
+R5
+r1
+!s85 0
+31
+R19
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_register.v|
+!i113 1
+R7
+R8
+vaftab_register_bank
+R15
+!i10b 1
+!s100 gNnf3aB:]QMDWc4nVlAK=1
+R1
+I7WFlan3Pg1QPVl5BAFhi_2
+R2
+R3
+w1685957146
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_register_bank.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_register_bank.v
+!i122 985
+L0 18 78
+R5
+r1
+!s85 0
+31
+R17
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_register_bank.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_interrupt/aftab_register_bank.v|
+!i113 1
+R7
+R8
+vaftab_registerFile
+R38
+!i10b 1
+!s100 7P17JSVJM[U=?HoE><Mf[1
+R1
+IHZBY4^FTZnG]jLDNnX?MK1
+R2
+R3
+w1685413140
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_registerFile.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_registerFile.v
+!i122 991
+R34
+R5
+r1
+!s85 0
+31
+R40
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_registerFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_registerFile.v|
+!i113 1
+R7
+R8
+naftab_register@file
+vaftab_sgn_divider_TB
+R9
+!i10b 1
+!s100 cT=fcL]02oQi0^QB8BOD<0
+R1
+IkgK4G5bmm<eUVT0Kd[fEE2
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_sgn_divider_TB.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_sgn_divider_TB.v
+!i122 19
+L0 18 45
+R5
+r1
+!s85 0
+31
+R11
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_sgn_divider_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_sgn_divider_TB.v|
+!i113 1
+R7
+R8
+naftab_sgn_divider_@t@b
+vaftab_shift_left_register
+R42
+!i10b 1
+!s100 f2JBNT_6Kb:<9VOTld3W82
+R1
+InSX6lG@XISizXHD`E__=k3
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_shift_left_register.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_shift_left_register.v
+!i122 956
+Z43 L0 18 35
+R5
+r1
+!s85 0
+31
+R19
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_shift_left_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_shift_left_register.v|
+!i113 1
+R7
+R8
+vaftab_shift_right_register
+R42
+!i10b 1
+!s100 OLI>QVgCSkhP:=2`f00lL3
+R1
+I3jPSYN8O6k:;EgnfgG76k3
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_shift_right_register.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_shift_right_register.v
+!i122 957
+R43
+R5
+r1
+!s85 0
+31
+R19
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_shift_right_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_shift_right_register.v|
+!i113 1
+R7
+R8
+vaftab_signed_divider
+R0
+!i10b 1
+!s100 K;`>Tl0zog>e<JE[2Og]13
+R1
+I[Cfi;J4]X482gidY<HQY_0
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_signed_divider.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_signed_divider.v
+!i122 965
+R20
+R5
+r1
+!s85 0
+31
+R21
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_signed_divider.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_aau/aftab_su_divider/aftab_signed_divider.v|
+!i113 1
+R7
+R8
+vaftab_sulu
+R38
+!i10b 1
+!s100 zMZ`m^:eBYKmRoUeCd0>F3
+R1
+Iea@?IAM>1MVK;1KBjeRc81
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_sulu.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_sulu.v
+!i122 992
+R37
+R5
+r1
+!s85 0
+31
+R40
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_sulu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/datapath/aftab_sulu.v|
+!i113 1
+R7
+R8
+vaftab_TCL
+R42
+!i10b 1
+!s100 :WoO`i]An=5B960JPhAjb0
+R1
+IX?nl[K@GFnOIi:DH^W6`13
+R2
+R3
+R4
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_TCL.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_TCL.v
+!i122 958
+L0 18 9
+R5
+r1
+!s85 0
+31
+R19
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_TCL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/baseModules/aftab_TCL.v|
+!i113 1
+R7
+R8
+naftab_@t@c@l
+vaftab_testbench
+Z44 !s110 1747839133
+!i10b 1
+!s100 2UZL6df@jLBN?Pg?lFF]@0
+R1
+IaNRgzV6RdAJl@lbQzJfRk3
+R2
+R3
+w1747838897
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_testbench.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_testbench.v
+!i122 1001
+L0 18 112
+R5
+r1
+!s85 0
+31
+R29
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/aftab_testbench.v|
+!i113 1
+R7
+R8
+vDataMem
+R38
+!i10b 1
+!s100 9_?nDEFzQdOoP@kcWA:zd2
+R1
+IelZE6e0;N;9mLV:@RJiJa2
+R2
+R3
+w1747394211
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/my_mem/DataMem.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/my_mem/DataMem.v
+!i122 993
+L0 1 25
+R5
+r1
+!s85 0
+31
+R40
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/my_mem/DataMem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/my_mem/DataMem.v|
+!i113 1
+R7
+R8
+n@data@mem
+vdecoder
+R15
+!i10b 1
+!s100 ];UG]IUJ7Y2b@ncH_MI[]1
+R1
+In0e0hCl[OP@RQYmD1J^_=3
+R2
+R3
+R4
+R22
+R23
+!i122 987
+L0 44 11
+R5
+r1
+!s85 0
+31
+R17
+R24
+R25
+!i113 1
+R7
+R8
+vGPIO
+R44
+!i10b 1
+!s100 PKMHPlIMBm14:P2bE>96@0
+R1
+Ih`YKFA;@mR_ke]SXYbz7W0
+R2
+R3
+w1747839119
+8D:/Desktop/core/CA2/Part C/GPIO/gpio.v
+FD:/Desktop/core/CA2/Part C/GPIO/gpio.v
+!i122 1002
+L0 1 83
+R5
+r1
+!s85 0
+31
+Z45 !s108 1747839133.000000
+!s107 D:/Desktop/core/CA2/Part C/GPIO/gpio.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/GPIO/gpio.v|
+!i113 1
+R7
+R8
+n@g@p@i@o
+vgpio_CNFregister
+R44
+!i10b 1
+!s100 Xnc9hed1CJ5A2T@H1DA^I0
+R1
+I@iZ^0m13H]gdZc<OjN8XT3
+R2
+R3
+w1747835005
+8D:/Desktop/core/CA2/Part C/GPIO/gpio_CNFregister.v
+FD:/Desktop/core/CA2/Part C/GPIO/gpio_CNFregister.v
+!i122 1003
+L0 1 24
+R5
+r1
+!s85 0
+31
+R45
+!s107 D:/Desktop/core/CA2/Part C/GPIO/gpio_CNFregister.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/GPIO/gpio_CNFregister.v|
+!i113 1
+R7
+R8
+ngpio_@c@n@fregister
+vgpio_register
+R44
+!i10b 1
+!s100 adRW2PelUgS6BgdMiS6E_3
+R1
+I8>lcBk1z6NoG1Ahao3_NV3
+R2
+R3
+w1747834997
+8D:/Desktop/core/CA2/Part C/GPIO/register.v
+FD:/Desktop/core/CA2/Part C/GPIO/register.v
+!i122 1004
+L0 1 20
+R5
+r1
+!s85 0
+31
+R45
+!s107 D:/Desktop/core/CA2/Part C/GPIO/register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/GPIO/register.v|
+!i113 1
+R7
+R8
+vInstrMem
+R38
+!i10b 1
+!s100 LVACS::mQzL0IVXOWeUBK1
+R1
+I2AlUdS`49d[3OW6fC9Fk21
+R2
+R3
+w1747380659
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/my_mem/InstrMem.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/my_mem/InstrMem.v
+!i122 994
+L0 1 17
+R5
+r1
+!s85 0
+31
+R40
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/my_mem/InstrMem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/my_mem/InstrMem.v|
+!i113 1
+R7
+R8
+n@instr@mem
+vmem_controller
+R28
+!i10b 1
+!s100 eQ>0UFkWNYAS;>J?akYAg1
+R1
+IG3A@1HDH5i<VHJ?jlO1Bm0
+R2
+R3
+w1747835320
+8D:/Desktop/core/CA2/Part C/CPU_Verilog/my_mem/mem_controller.v
+FD:/Desktop/core/CA2/Part C/CPU_Verilog/my_mem/mem_controller.v
+!i122 995
+L0 1 62
+R5
+r1
+!s85 0
+31
+R40
+!s107 D:/Desktop/core/CA2/Part C/CPU_Verilog/my_mem/mem_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Desktop/core/CA2/Part C/CPU_Verilog/my_mem/mem_controller.v|
+!i113 1
+R7
+R8
